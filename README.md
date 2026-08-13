@@ -27,7 +27,7 @@
 
 ## Main
 
-* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,516 | 🐛 44 | 🌐 JavaScript | 📅 2026-08-12 - The entire standard library.
+* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,516 | 🐛 44 | 🌐 JavaScript | 📅 2026-08-13 - The entire standard library.
 
 ## Uncategorised
 
@@ -41,7 +41,7 @@
 
 ## Numbers
 
-* [bignumber.js](https://github.com/MikeMcl/bignumber.js) ⭐ 7,009 | 🐛 5 | 🌐 JavaScript | 📅 2026-07-05 - [`BigInt`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+* [bignumber.js](https://github.com/MikeMcl/bignumber.js) ⭐ 7,008 | 🐛 5 | 🌐 JavaScript | 📅 2026-07-05 - [`BigInt`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 * [number-is-nan](https://github.com/sindresorhus/number-is-nan) ⚠️ Archived - [`Number.isNaN`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isNaN)
 * [is-finite](https://github.com/sindresorhus/is-finite) ⚠️ Archived - [`Number.isFinite`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isFinite)
 * [is-integer](https://github.com/parshap/js-is-integer) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2017-05-05 - [`Number.isInteger`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isInteger)
