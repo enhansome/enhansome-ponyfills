@@ -1,0 +1,760 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "es6-promise",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-11-14T21:47:12Z",
+            "owner": "stefanpenner",
+            "repo": "es6-promise",
+            "stars": 7256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "es6-symbol",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-01T13:27:04Z",
+            "owner": "medikoo",
+            "repo": "es6-symbol",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "globalthis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-30T01:54:30Z",
+            "owner": "es-shims",
+            "repo": "globalThis",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "es6-map",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-30T16:03:45Z",
+            "owner": "medikoo",
+            "repo": "es6-map",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "es6-set",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-31T09:54:47Z",
+            "owner": "medikoo",
+            "repo": "es6-set",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "es6-weak-map",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-30T16:03:55Z",
+            "owner": "medikoo",
+            "repo": "es6-weak-map",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "named-regexp-groups",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-25T20:38:04Z",
+            "owner": "commenthol",
+            "repo": "named-regexp-groups",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Uncategorised"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bignumber.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-05T15:14:35Z",
+            "owner": "MikeMcl",
+            "repo": "bignumber.js",
+            "stars": 7009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "number-is-nan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-05-02T17:43:43Z",
+            "owner": "sindresorhus",
+            "repo": "number-is-nan",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "is-finite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-04-07T07:09:34Z",
+            "owner": "sindresorhus",
+            "repo": "is-finite",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "is-integer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-05T08:48:06Z",
+            "owner": "parshap",
+            "repo": "js-is-integer",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Numbers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "string.prototype.replaceall",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-12T05:01:31Z",
+            "owner": "es-shims",
+            "repo": "String.prototype.replaceAll",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "indexof",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-04-27T17:25:42Z",
+            "owner": "component",
+            "repo": "indexof",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "string.prototype.trim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-05T22:54:14Z",
+            "owner": "es-shims",
+            "repo": "String.prototype.trim",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "string.prototype.trimleft",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-13T19:31:00Z",
+            "owner": "es-shims",
+            "repo": "String.prototype.trimLeft",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "string.prototype.trimright",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-30T01:55:32Z",
+            "owner": "es-shims",
+            "repo": "String.prototype.trimRight",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Strings"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "json3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-05-27T23:09:36Z",
+            "owner": "bestiejs",
+            "repo": "json3",
+            "stars": 1020
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "object-assign",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-05T18:16:06Z",
+            "owner": "sindresorhus",
+            "repo": "object-assign",
+            "stars": 917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "object.values",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-30T01:55:08Z",
+            "owner": "es-shims",
+            "repo": "Object.values",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "object.entries",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-30T01:55:00Z",
+            "owner": "es-shims",
+            "repo": "Object.entries",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "object-keys",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-17T20:35:31Z",
+            "owner": "ljharb",
+            "repo": "object-keys",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "object.fromentries",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-30T01:55:02Z",
+            "owner": "es-shims",
+            "repo": "Object.fromEntries",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "object-is",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-18T18:37:00Z",
+            "owner": "es-shims",
+            "repo": "object-is",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Objects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "isarray",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T11:27:44Z",
+            "owner": "juliangruber",
+            "repo": "isarray",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "array-includes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-30T01:53:57Z",
+            "owner": "es-shims",
+            "repo": "array-includes",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "array.prototype.find",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-19T05:09:14Z",
+            "owner": "paulmillr",
+            "repo": "Array.prototype.find",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "array.prototype.flatmap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-30T01:54:12Z",
+            "owner": "es-shims",
+            "repo": "Array.prototype.flatMap",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "array-from",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-11-02T07:47:34Z",
+            "owner": "b12-archive",
+            "repo": "array-from",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "indexof",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-04-27T17:25:42Z",
+            "owner": "component",
+            "repo": "indexof",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "array-foreach",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-01T09:10:13Z",
+            "owner": "twada",
+            "repo": "array-foreach",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "array.prototype.every",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-30T01:54:04Z",
+            "owner": "es-shims",
+            "repo": "Array.prototype.every",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "array.prototype.some",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-20T00:20:19Z",
+            "owner": "es-shims",
+            "repo": "Array.prototype.some",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "array-map",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Arrays"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "resize-observer-polyfill",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-27T12:16:31Z",
+            "owner": "que-etc",
+            "repo": "resize-observer-polyfill",
+            "stars": 1752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cross-fetch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-15T12:40:26Z",
+            "owner": "lquixada",
+            "repo": "cross-fetch",
+            "stars": 1695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "css-vars-ponyfill",
+          "description": "CSS variables/custom properties",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-05T21:36:28Z",
+            "owner": "jhildenbiddle",
+            "repo": "css-vars-ponyfill",
+            "stars": 1459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "raf",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-31T14:35:47Z",
+            "owner": "chrisdickinson",
+            "repo": "raf",
+            "stars": 738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "abortcontroller-polyfill",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-10T16:37:13Z",
+            "owner": "mo",
+            "repo": "abortcontroller-polyfill",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webbluetooth",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T18:35:44Z",
+            "owner": "thegecko",
+            "repo": "webbluetooth",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "console.table",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-11-18T21:37:13Z",
+            "owner": "bahmutov",
+            "repo": "console.table",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webcrypto-shim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-03-23T08:44:58Z",
+            "owner": "vibornoff",
+            "repo": "webcrypto-shim",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xhr2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2022-09-01T16:03:36Z",
+            "owner": "pwnall",
+            "repo": "node-xhr2",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@fastly/performance-observer-polyfill",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-05T12:57:52Z",
+            "owner": "fastly",
+            "repo": "performance-observer-polyfill",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cross-blob",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-18T04:41:40Z",
+            "owner": "Richienb",
+            "repo": "cross-blob",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cross-formdata",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-14T05:18:38Z",
+            "owner": "Richienb",
+            "repo": "cross-formdata",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "performance-now",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-02-05T06:42:49Z",
+            "owner": "braveg1rl",
+            "repo": "performance-now",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Browser Features"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "events",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-21T09:59:54Z",
+            "owner": "browserify",
+            "repo": "events",
+            "stars": 1407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tickedoff",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-13T09:55:04Z",
+            "owner": "jamiebuilds",
+            "repo": "tickedoff",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-tick",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-30T16:05:41Z",
+            "owner": "medikoo",
+            "repo": "next-tick",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "buffer-from",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-29T17:05:31Z",
+            "owner": "LinusU",
+            "repo": "buffer-from",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cross-exit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-14T05:18:29Z",
+            "owner": "Richienb",
+            "repo": "cross-exit",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Node.js Features"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:46.570Z",
+    "original_repository": "Richienb/awesome-ponyfills",
+    "original_repository_sha": "303996852d98f5ae70c64ed91598671680691ef0",
+    "enhanced_repository": "enhansome/enhansome-ponyfills",
+    "enhanced_repository_description": null,
+    "title": "Awesome ponyfills with stars"
+  }
+}
