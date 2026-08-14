@@ -27,7 +27,7 @@
 
 ## Main
 
-* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,516 | 🐛 44 | 🌐 JavaScript | 📅 2026-08-13 - The entire standard library.
+* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,516 | 🐛 44 | 🌐 JavaScript | 📅 2026-08-14 - The entire standard library.
 
 ## Uncategorised
 
@@ -67,7 +67,7 @@
 ## Arrays
 
 * [isarray](https://github.com/juliangruber/isarray) ⭐ 132 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-11 - [`Array.isArray`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
-* [array-includes](https://github.com/es-shims/array-includes) ⭐ 43 | 🐛 2 | 🌐 JavaScript | 📅 2025-12-30 - [`Array.prototype.includes`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
+* [array-includes](https://github.com/es-shims/array-includes) ⭐ 43 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-14 - [`Array.prototype.includes`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
 * [array.prototype.find](https://github.com/paulmillr/Array.prototype.find) ⭐ 38 | 🐛 1 | 🌐 JavaScript | 📅 2024-03-19 - [`Array.prototype.find`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
 * [array.prototype.flatmap](https://github.com/es-shims/Array.prototype.flatMap) ⭐ 33 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-30 - [`Array.prototype.flatMap`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap)
 * [array-from](https://github.com/studio-b12/array-from) ⚠️ Archived - [`Array.from`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
@@ -95,7 +95,7 @@
 
 ## Node.js Features
 
-* [events](https://github.com/Gozala/events) ⭐ 1,407 | 🐛 14 | 🌐 JavaScript | 📅 2024-12-21 - [`EventEmitter`](https://nodejs.org/api/events.html#events_class_eventemitter)
+* [events](https://github.com/Gozala/events) ⭐ 1,408 | 🐛 14 | 🌐 JavaScript | 📅 2024-12-21 - [`EventEmitter`](https://nodejs.org/api/events.html#events_class_eventemitter)
 * [tickedoff](https://github.com/jamiebuilds/tickedoff) ⭐ 217 | 🐛 2 | 🌐 JavaScript | 📅 2023-06-13 - [`setImmediate`](https://nodejs.org/api/timers.html#timers_setimmediate_callback_args)
 * [next-tick](https://github.com/medikoo/next-tick) ⭐ 74 | 🐛 2 | 🌐 JavaScript | 📅 2021-06-30 - [`process.nextTick`](https://nodejs.org/api/process.html#process_process_nexttick_callback_args)
 * [buffer-from](https://github.com/LinusU/buffer-from) ⭐ 25 | 🐛 1 | 🌐 JavaScript | 📅 2021-07-29 - [`Buffer.from`](https://nodejs.org/api/buffer.html#buffer_class_method_buffer_from_array)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

@@ -371,7 +371,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2025-12-30T01:53:57Z",
+            "last_commit": "2026-08-14T03:59:49Z",
             "owner": "es-shims",
             "repo": "array-includes",
             "stars": 43
@@ -686,7 +686,7 @@
             "last_commit": "2024-12-21T09:59:54Z",
             "owner": "browserify",
             "repo": "events",
-            "stars": 1407
+            "stars": 1408
           }
         },
         {
@@ -750,7 +750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T08:43:57.331Z",
+    "last_updated": "2026-08-14T08:38:11.345Z",
     "original_repository": "Richienb/awesome-ponyfills",
     "original_repository_sha": "303996852d98f5ae70c64ed91598671680691ef0",
     "enhanced_repository": "enhansome/enhansome-ponyfills",
