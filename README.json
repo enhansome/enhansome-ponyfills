@@ -118,7 +118,7 @@
             "last_commit": "2026-07-05T15:14:35Z",
             "owner": "MikeMcl",
             "repo": "bignumber.js",
-            "stars": 7007
+            "stars": 7008
           }
         },
         {
@@ -750,7 +750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:44:35.147Z",
+    "last_updated": "2026-08-16T07:45:46.421Z",
     "original_repository": "Richienb/awesome-ponyfills",
     "original_repository_sha": "303996852d98f5ae70c64ed91598671680691ef0",
     "enhanced_repository": "enhansome/enhansome-ponyfills",
