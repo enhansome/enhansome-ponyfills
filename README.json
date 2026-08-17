@@ -14,7 +14,7 @@
             "last_commit": "2022-11-14T21:47:12Z",
             "owner": "stefanpenner",
             "repo": "es6-promise",
-            "stars": 7255
+            "stars": 7254
           }
         },
         {
@@ -371,7 +371,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T03:59:49Z",
+            "last_commit": "2026-08-17T06:25:01Z",
             "owner": "es-shims",
             "repo": "array-includes",
             "stars": 43
@@ -750,7 +750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:45:46.421Z",
+    "last_updated": "2026-08-17T08:00:59.217Z",
     "original_repository": "Richienb/awesome-ponyfills",
     "original_repository_sha": "303996852d98f5ae70c64ed91598671680691ef0",
     "enhanced_repository": "enhansome/enhansome-ponyfills",
