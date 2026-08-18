@@ -565,7 +565,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T18:35:44Z",
+            "last_commit": "2026-08-17T19:15:34Z",
             "owner": "thegecko",
             "repo": "webbluetooth",
             "stars": 200
@@ -750,7 +750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T08:00:59.217Z",
+    "last_updated": "2026-08-18T07:54:26.018Z",
     "original_repository": "Richienb/awesome-ponyfills",
     "original_repository_sha": "303996852d98f5ae70c64ed91598671680691ef0",
     "enhanced_repository": "enhansome/enhansome-ponyfills",
