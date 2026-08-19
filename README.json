@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15046172,
             "language": "JavaScript",
             "last_commit": "2022-11-14T21:47:12Z",
             "owner": "stefanpenner",
             "repo": "es6-promise",
-            "stars": 7254
+            "stars": 7253
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14423385,
             "language": "JavaScript",
             "last_commit": "2024-03-01T13:27:04Z",
             "owner": "medikoo",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55033953,
             "language": "JavaScript",
             "last_commit": "2025-12-30T01:54:30Z",
             "owner": "es-shims",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10121039,
             "language": "JavaScript",
             "last_commit": "2021-06-30T16:03:45Z",
             "owner": "medikoo",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13519640,
             "language": "JavaScript",
             "last_commit": "2022-08-31T09:54:47Z",
             "owner": "medikoo",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13834832,
             "language": "JavaScript",
             "last_commit": "2021-06-30T16:03:55Z",
             "owner": "medikoo",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78370581,
             "language": "JavaScript",
             "last_commit": "2022-02-25T20:38:04Z",
             "owner": "commenthol",
@@ -105,7 +112,7 @@
       "title": "Uncategorised"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6602323,
             "language": "JavaScript",
             "last_commit": "2026-07-05T15:14:35Z",
             "owner": "MikeMcl",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35973186,
             "language": "JavaScript",
             "last_commit": "2024-05-02T17:43:43Z",
             "owner": "sindresorhus",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 22609678,
             "language": "JavaScript",
             "last_commit": "2021-04-07T07:09:34Z",
             "owner": "sindresorhus",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12496830,
             "language": "JavaScript",
             "last_commit": "2017-05-05T08:48:06Z",
             "owner": "parshap",
@@ -167,7 +178,7 @@
       "title": "Numbers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205726465,
             "language": "JavaScript",
             "last_commit": "2025-09-12T05:01:31Z",
             "owner": "es-shims",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5445956,
             "language": "JavaScript",
             "last_commit": "2021-04-27T17:25:42Z",
             "owner": "component",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40412771,
             "language": "JavaScript",
             "last_commit": "2026-06-05T22:54:14Z",
             "owner": "es-shims",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39915916,
             "language": "JavaScript",
             "last_commit": "2026-01-13T19:31:00Z",
             "owner": "es-shims",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39918048,
             "language": "JavaScript",
             "last_commit": "2025-12-30T01:55:32Z",
             "owner": "es-shims",
@@ -243,7 +259,7 @@
       "title": "Strings"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -252,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 3412691,
             "language": "JavaScript",
             "last_commit": "2019-05-27T23:09:36Z",
             "owner": "bestiejs",
@@ -266,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16457190,
             "language": "JavaScript",
             "last_commit": "2023-11-05T18:16:06Z",
             "owner": "sindresorhus",
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41723335,
             "language": "JavaScript",
             "last_commit": "2025-12-30T01:55:08Z",
             "owner": "es-shims",
@@ -294,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41803787,
             "language": "JavaScript",
             "last_commit": "2025-12-30T01:55:00Z",
             "owner": "es-shims",
@@ -308,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9103992,
             "language": "JavaScript",
             "last_commit": "2026-03-17T20:35:31Z",
             "owner": "ljharb",
@@ -322,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126193205,
             "language": "JavaScript",
             "last_commit": "2025-12-30T01:55:02Z",
             "owner": "es-shims",
@@ -336,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16938852,
             "language": "JavaScript",
             "last_commit": "2026-03-18T18:37:00Z",
             "owner": "es-shims",
@@ -347,7 +370,7 @@
       "title": "Objects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -356,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10227611,
             "language": "JavaScript",
             "last_commit": "2026-08-11T11:27:44Z",
             "owner": "juliangruber",
@@ -370,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28753032,
             "language": "JavaScript",
             "last_commit": "2026-08-17T06:25:01Z",
             "owner": "es-shims",
@@ -384,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15341310,
             "language": "JavaScript",
             "last_commit": "2024-03-19T05:09:14Z",
             "owner": "paulmillr",
@@ -398,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105318718,
             "language": "JavaScript",
             "last_commit": "2025-12-30T01:54:12Z",
             "owner": "es-shims",
@@ -412,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35482763,
             "language": "JavaScript",
             "last_commit": "2020-11-02T07:47:34Z",
             "owner": "b12-archive",
@@ -426,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5445956,
             "language": "JavaScript",
             "last_commit": "2021-04-27T17:25:42Z",
             "owner": "component",
@@ -440,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31643335,
             "language": "JavaScript",
             "last_commit": "2016-10-01T09:10:13Z",
             "owner": "twada",
@@ -454,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74329368,
             "language": "JavaScript",
             "last_commit": "2025-12-30T01:54:04Z",
             "owner": "es-shims",
@@ -468,24 +499,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74541260,
             "language": "JavaScript",
             "last_commit": "2024-03-20T00:20:19Z",
             "owner": "es-shims",
             "repo": "Array.prototype.some",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "array-map",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Arrays"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -494,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64667939,
             "language": "JavaScript",
             "last_commit": "2023-01-27T12:16:31Z",
             "owner": "que-etc",
@@ -508,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102216161,
             "language": "JavaScript",
             "last_commit": "2025-04-15T12:40:26Z",
             "owner": "lquixada",
@@ -522,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111427718,
             "language": "JavaScript",
             "last_commit": "2024-03-05T21:36:28Z",
             "owner": "jhildenbiddle",
@@ -536,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7350109,
             "language": "JavaScript",
             "last_commit": "2022-01-31T14:35:47Z",
             "owner": "chrisdickinson",
@@ -550,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98086783,
             "language": "JavaScript",
             "last_commit": "2024-12-10T16:37:13Z",
             "owner": "mo",
@@ -564,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111308426,
             "language": "TypeScript",
             "last_commit": "2026-08-17T19:15:34Z",
             "owner": "thegecko",
@@ -578,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18352290,
             "language": "JavaScript",
             "last_commit": "2020-11-18T21:37:13Z",
             "owner": "bahmutov",
@@ -592,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 40387153,
             "language": "JavaScript",
             "last_commit": "2021-03-23T08:44:58Z",
             "owner": "vibornoff",
@@ -606,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7867844,
             "language": "CoffeeScript",
             "last_commit": "2022-09-01T16:03:36Z",
             "owner": "pwnall",
@@ -620,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190827822,
             "language": "TypeScript",
             "last_commit": "2024-01-05T12:57:52Z",
             "owner": "fastly",
@@ -634,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222170178,
             "language": "JavaScript",
             "last_commit": "2022-10-18T04:41:40Z",
             "owner": "Richienb",
@@ -648,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222354486,
             "language": "JavaScript",
             "last_commit": "2021-08-14T05:18:38Z",
             "owner": "Richienb",
@@ -662,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 336187529,
             "language": null,
             "last_commit": "2021-02-05T06:42:49Z",
             "owner": "braveg1rl",
@@ -673,7 +712,7 @@
       "title": "Browser Features"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -682,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1649251,
             "language": "JavaScript",
             "last_commit": "2024-12-21T09:59:54Z",
             "owner": "browserify",
@@ -696,6 +736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126867867,
             "language": "JavaScript",
             "last_commit": "2023-06-13T09:55:04Z",
             "owner": "jamiebuilds",
@@ -710,6 +751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5605834,
             "language": "JavaScript",
             "last_commit": "2021-06-30T16:05:41Z",
             "owner": "medikoo",
@@ -724,6 +766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66025821,
             "language": "JavaScript",
             "last_commit": "2021-07-29T17:05:31Z",
             "owner": "LinusU",
@@ -738,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 232784621,
             "language": "JavaScript",
             "last_commit": "2021-08-14T05:18:29Z",
             "owner": "Richienb",
@@ -750,7 +794,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:54:26.018Z",
+    "last_updated": "2026-08-19T07:54:43.760Z",
     "original_repository": "Richienb/awesome-ponyfills",
     "original_repository_sha": "303996852d98f5ae70c64ed91598671680691ef0",
     "enhanced_repository": "enhansome/enhansome-ponyfills",
