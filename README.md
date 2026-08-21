@@ -27,7 +27,7 @@
 
 ## Main
 
-* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,521 | 🐛 44 | 🌐 JavaScript | 📅 2026-08-19 - The entire standard library.
+* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,521 | 🐛 44 | 🌐 JavaScript | 📅 2026-08-20 - The entire standard library.
 
 ## Uncategorised
 
@@ -57,16 +57,16 @@
 ## Objects
 
 * [json3](https://github.com/bestiejs/json3) ⚠️ Archived - [`JSON`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
-* [object-assign](https://github.com/sindresorhus/object-assign) ⭐ 917 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-05 - [`Object.assign`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
-* [object.values](https://github.com/es-shims/Object.values) ⭐ 73 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-30 - [`Object.values`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values)
+* [object-assign](https://github.com/sindresorhus/object-assign) ⭐ 916 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-05 - [`Object.assign`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
+* [object.values](https://github.com/es-shims/Object.values) ⭐ 72 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-30 - [`Object.values`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values)
 * [object.entries](https://github.com/es-shims/Object.entries) ⭐ 59 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-30 - [`Object.entries`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries)
-* [object-keys](https://github.com/ljharb/object-keys) ⭐ 46 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-17 - [`Object.keys`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
+* [object-keys](https://github.com/ljharb/object-keys) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-17 - [`Object.keys`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
 * [object.fromentries](https://github.com/es-shims/Object.fromEntries) ⭐ 32 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-30 - [`Object.fromEntries`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/fromEntries)
 * [object-is](https://github.com/es-shims/object-is) ⭐ 25 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-18 - [`Object.is`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is)
 
 ## Arrays
 
-* [isarray](https://github.com/juliangruber/isarray) ⭐ 132 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-11 - [`Array.isArray`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
+* [isarray](https://github.com/juliangruber/isarray) ⭐ 131 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-21 - [`Array.isArray`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
 * [array-includes](https://github.com/es-shims/array-includes) ⭐ 43 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-17 - [`Array.prototype.includes`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
 * [array.prototype.find](https://github.com/paulmillr/Array.prototype.find) ⭐ 38 | 🐛 1 | 🌐 JavaScript | 📅 2024-03-19 - [`Array.prototype.find`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
 * [array.prototype.flatmap](https://github.com/es-shims/Array.prototype.flatMap) ⭐ 33 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-30 - [`Array.prototype.flatMap`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
