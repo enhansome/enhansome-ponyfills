@@ -412,7 +412,7 @@
             "id": 15341310,
             "language": "JavaScript",
             "last_commit": "2024-03-19T05:09:14Z",
-            "owner": "paulmillr",
+            "owner": "es-shims",
             "repo": "Array.prototype.find",
             "stars": 38
           }
@@ -794,7 +794,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:44:48.222Z",
+    "last_updated": "2026-08-25T06:40:42.656Z",
     "original_repository": "Richienb/awesome-ponyfills",
     "original_repository_id": 230831665,
     "original_repository_sha": "303996852d98f5ae70c64ed91598671680691ef0",
