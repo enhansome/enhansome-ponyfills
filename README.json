@@ -555,7 +555,7 @@
             "last_commit": "2024-03-05T21:36:28Z",
             "owner": "jhildenbiddle",
             "repo": "css-vars-ponyfill",
-            "stars": 1459
+            "stars": 1460
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2026-08-17T19:15:34Z",
             "owner": "thegecko",
             "repo": "webbluetooth",
-            "stars": 200
+            "stars": 201
           }
         },
         {
@@ -794,7 +794,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:58:51.536Z",
+    "last_updated": "2026-08-26T08:00:18.189Z",
     "original_repository": "Richienb/awesome-ponyfills",
     "original_repository_id": 230831665,
     "original_repository_sha": "303996852d98f5ae70c64ed91598671680691ef0",
