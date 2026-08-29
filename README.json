@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A polyfill for ES6-style Promises",
+            "homepage": null,
             "id": 15046172,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-11-14T21:47:12Z",
+            "open_issues": 26,
             "owner": "stefanpenner",
             "repo": "es6-promise",
-            "stars": 7253
+            "stars": 7253,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ECMAScript 6 Symbol polyfill",
+            "homepage": null,
             "id": 14423385,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2024-03-01T13:27:04Z",
+            "open_issues": 2,
             "owner": "medikoo",
             "repo": "es6-symbol",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ECMAScript spec-compliant polyfill/shim for `globalThis`.",
+            "homepage": "https://github.com/tc39/proposal-global",
             "id": 55033953,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-30T01:54:30Z",
+            "open_issues": 2,
             "owner": "es-shims",
             "repo": "globalThis",
-            "stars": 157
+            "stars": 157,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Map collection as specified in ECMAScript6",
+            "homepage": null,
             "id": 10121039,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-06-30T16:03:45Z",
+            "open_issues": 1,
             "owner": "medikoo",
             "repo": "es6-map",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -74,12 +94,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set collection as specified in ECMAScript 6",
+            "homepage": null,
             "id": 13519640,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2022-08-31T09:54:47Z",
+            "open_issues": 1,
             "owner": "medikoo",
             "repo": "es6-set",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -90,12 +115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WeakMap collection as specified in ECMAScript6",
+            "homepage": null,
             "id": 13834832,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2021-06-30T16:03:55Z",
+            "open_issues": 1,
             "owner": "medikoo",
             "repo": "es6-weak-map",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -106,12 +136,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Regular expressions with named capture groups and named back-references",
+            "homepage": null,
             "id": 78370581,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-02-25T20:38:04Z",
+            "open_issues": 0,
             "owner": "commenthol",
             "repo": "named-regexp-groups",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         }
@@ -128,12 +163,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic ",
+            "homepage": "http://mikemcl.github.io/bignumber.js",
             "id": 6602323,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-05T15:14:35Z",
+            "open_issues": 8,
             "owner": "MikeMcl",
             "repo": "bignumber.js",
-            "stars": 7009
+            "stars": 7009,
+            "topics": [
+              "arbitrary-precision",
+              "bigdecimal",
+              "bignumber",
+              "decimal-places",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -144,12 +190,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ES2015 Number.isNaN() ponyfill",
+            "homepage": null,
             "id": 35973186,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-05-02T17:43:43Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "number-is-nan",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -160,12 +211,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ES2015 Number.isFinite() ponyfill",
+            "homepage": null,
             "id": 22609678,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-04-07T07:09:34Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "is-finite",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -176,12 +232,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ES2015 (ES6) Number.isInteger polyfill",
+            "homepage": null,
             "id": 12496830,
             "language": "JavaScript",
+            "license": "WTFPL",
             "last_commit": "2017-05-05T08:48:06Z",
+            "open_issues": 0,
             "owner": "parshap",
             "repo": "js-is-integer",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         }
@@ -198,12 +259,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spec-compliant polyfill for String.prototype.replaceAll ESnext proposal.",
+            "homepage": "https://github.com/tc39/proposal-string-replaceall",
             "id": 205726465,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-12T05:01:31Z",
+            "open_issues": 1,
             "owner": "es-shims",
             "repo": "String.prototype.replaceAll",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -214,12 +280,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Thanks microsoft",
+            "homepage": null,
             "id": 5445956,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-04-27T17:25:42Z",
+            "open_issues": 1,
             "owner": "component",
             "repo": "indexof",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -230,12 +301,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ES5 spec-compliant shim for String.prototype.trim",
+            "homepage": "http://www.ecma-international.org/ecma-262/5.1/#sec-15.5.4.20",
             "id": 40412771,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-05T22:54:14Z",
+            "open_issues": 1,
             "owner": "es-shims",
             "repo": "String.prototype.trim",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "ecmascript",
+              "javascript",
+              "polyfill",
+              "shim",
+              "string",
+              "trim"
+            ]
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -246,12 +329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ES2019 spec-compliant shim for String.prototype.trimLeft.",
+            "homepage": "https://github.com/tc39/proposal-string-left-right-trim",
             "id": 39915916,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-13T19:31:00Z",
+            "open_issues": 0,
             "owner": "es-shims",
             "repo": "String.prototype.trimLeft",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -262,12 +350,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ES2019 spec-compliant shim for String.prototype.trimRight.",
+            "homepage": "https://github.com/tc39/proposal-string-left-right-trim",
             "id": 39918048,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-30T01:55:32Z",
+            "open_issues": 0,
             "owner": "es-shims",
             "repo": "String.prototype.trimRight",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "ecmascript",
+              "javascript",
+              "polyfill",
+              "shim",
+              "string",
+              "trim",
+              "trimend",
+              "trimright"
+            ]
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         }
@@ -284,12 +386,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A JSON polyfill. No longer maintained.",
+            "homepage": "https://bestiejs.github.io/json3",
             "id": 3412691,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2019-05-27T23:09:36Z",
+            "open_issues": 17,
             "owner": "bestiejs",
             "repo": "json3",
-            "stars": 1020
+            "stars": 1020,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -300,12 +407,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ES2015 Object.assign() ponyfill",
+            "homepage": null,
             "id": 16457190,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-05T18:16:06Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "object-assign",
-            "stars": 916
+            "stars": 916,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -316,12 +428,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ES2017 spec-compliant shim for Object.values",
+            "homepage": "https://github.com/ljharb/proposal-object-values-entries",
             "id": 41723335,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-30T01:55:08Z",
+            "open_issues": 1,
             "owner": "es-shims",
             "repo": "Object.values",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "ecmascript",
+              "javascript",
+              "object",
+              "polyfill",
+              "shim",
+              "values"
+            ]
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -332,12 +456,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ES2017 spec-compliant shim for Object.entries",
+            "homepage": "https://github.com/tc39/proposal-object-values-entries",
             "id": 41803787,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-30T01:55:00Z",
+            "open_issues": 1,
             "owner": "es-shims",
             "repo": "Object.entries",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "ecmascript",
+              "entries",
+              "javascript",
+              "keys",
+              "object",
+              "polyfill",
+              "shim",
+              "values"
+            ]
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -348,12 +486,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Object.keys shim",
+            "homepage": null,
             "id": 9103992,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-17T20:35:31Z",
+            "open_issues": 0,
             "owner": "ljharb",
             "repo": "object-keys",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "ecmascript",
+              "es-shims",
+              "es5",
+              "javascript",
+              "keys",
+              "object",
+              "polyfill",
+              "shim"
+            ]
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -364,12 +516,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official ES spec-compliant polyfill for Object.fromEntries",
+            "homepage": null,
             "id": 126193205,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-30T01:55:02Z",
+            "open_issues": 1,
             "owner": "es-shims",
             "repo": "Object.fromEntries",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "ecmascript",
+              "entries",
+              "fromentries",
+              "javascript",
+              "object"
+            ]
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -380,12 +543,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ES6-compliant shim for Object.is - differentiates between -0 and +0, and can compare to NaN.",
+            "homepage": null,
             "id": 16938852,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-18T18:37:00Z",
+            "open_issues": 1,
             "owner": "es-shims",
             "repo": "object-is",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         }
@@ -402,12 +570,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Array#isArray for older browsers.",
+            "homepage": null,
             "id": 10227611,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T07:51:10Z",
+            "open_issues": 2,
             "owner": "juliangruber",
             "repo": "isarray",
-            "stars": 131
+            "stars": 131,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -418,12 +591,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Array.prototype.includes spec-compliant polyfill",
+            "homepage": "https://tc39.github.io/ecma262/#sec-array.prototype.includes",
             "id": 28753032,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-17T06:25:01Z",
+            "open_issues": 1,
             "owner": "es-shims",
             "repo": "array-includes",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "array",
+              "contains",
+              "ecmascript",
+              "includes",
+              "javascript",
+              "polyfill",
+              "shim"
+            ]
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -434,12 +620,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple ES6 Array.prototype.find polyfill for older environments.",
+            "homepage": null,
             "id": 15341310,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-19T05:09:14Z",
+            "open_issues": 1,
             "owner": "es-shims",
             "repo": "Array.prototype.find",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -450,12 +641,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ESnext spec-compliant `Array.prototype.flatMap` shim/polyfill/replacement that works as far down as ES3.",
+            "homepage": "https://tc39.github.io/proposal-flatMap/",
             "id": 105318718,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-30T01:54:12Z",
+            "open_issues": 1,
             "owner": "es-shims",
             "repo": "Array.prototype.flatMap",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "array",
+              "ecmascript",
+              "flatmap",
+              "javascript",
+              "polyfill",
+              "shim"
+            ]
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -466,12 +669,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A ponyfill for the ES 2015 `Array.from()`",
+            "homepage": "http://npm.im/array-from",
             "id": 35482763,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-11-02T07:47:34Z",
+            "open_issues": 8,
             "owner": "b12-archive",
             "repo": "array-from",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -482,12 +690,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Thanks microsoft",
+            "homepage": null,
             "id": 5445956,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-04-27T17:25:42Z",
+            "open_issues": 1,
             "owner": "component",
             "repo": "indexof",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -498,12 +711,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Array#forEach ponyfill for older browsers",
+            "homepage": null,
             "id": 31643335,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-10-01T09:10:13Z",
+            "open_issues": 0,
             "owner": "twada",
             "repo": "array-foreach",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -514,12 +732,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Array.prototype.every spec-compliant polyfill",
+            "homepage": "https://tc39.github.io/ecma262/#sec-array.prototype.every",
             "id": 74329368,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-30T01:54:04Z",
+            "open_issues": 1,
             "owner": "es-shims",
             "repo": "Array.prototype.every",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "array",
+              "ecmascript",
+              "every",
+              "javascript",
+              "polyfill",
+              "shim"
+            ]
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -530,12 +760,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Array.prototype.some spec-compliant polyfill",
+            "homepage": "https://tc39.github.io/ecma262/#sec-array.prototype.some",
             "id": 74541260,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-20T00:20:19Z",
+            "open_issues": 1,
             "owner": "es-shims",
             "repo": "Array.prototype.some",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "array",
+              "ecmascript",
+              "javascript",
+              "polyfill",
+              "shim",
+              "some"
+            ]
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         }
@@ -552,12 +794,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A polyfill for the Resize Observer API",
+            "homepage": null,
             "id": 64667939,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-27T12:16:31Z",
+            "open_issues": 59,
             "owner": "que-etc",
             "repo": "resize-observer-polyfill",
-            "stars": 1752
+            "stars": 1752,
+            "topics": [
+              "polyfill",
+              "ponyfill",
+              "resize-events",
+              "resize-observer"
+            ]
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -568,12 +820,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Universal WHATWG Fetch API for Node, Browsers and React Native.",
+            "homepage": null,
             "id": 102216161,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-15T12:40:26Z",
+            "open_issues": 27,
             "owner": "lquixada",
             "repo": "cross-fetch",
-            "stars": 1695
+            "stars": 1695,
+            "topics": [
+              "cross-fetch",
+              "fetch",
+              "fetch-api",
+              "http",
+              "http-client",
+              "isomorphic",
+              "isomorphic-fetch",
+              "node-fetch",
+              "spec-compliant",
+              "whatwg-fetch"
+            ]
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -584,12 +852,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Client-side support for CSS custom properties (aka \"CSS variables\") in legacy and modern browsers",
+            "homepage": "https://jhildenbiddle.github.io/css-vars-ponyfill",
             "id": 111427718,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-05T21:36:28Z",
+            "open_issues": 5,
             "owner": "jhildenbiddle",
             "repo": "css-vars-ponyfill",
-            "stars": 1460
+            "stars": 1460,
+            "topics": [
+              "client",
+              "client-side",
+              "css",
+              "custom-properties",
+              "custom-property",
+              "ie",
+              "ie10",
+              "ie11",
+              "ie9",
+              "internet-explorer",
+              "javascript",
+              "legacy",
+              "module",
+              "polyfill",
+              "ponyfill",
+              "shadow",
+              "shadow-dom",
+              "variables",
+              "vars",
+              "web-component"
+            ]
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -600,12 +894,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "requestAnimationFrame polyfill library",
+            "homepage": null,
             "id": 7350109,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-01-31T14:35:47Z",
+            "open_issues": 1,
             "owner": "chrisdickinson",
             "repo": "raf",
-            "stars": 738
+            "stars": 738,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -616,12 +915,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Polyfill for the AbortController DOM API and abortable fetch (stub that calls catch, doesn't actually abort request).",
+            "homepage": null,
             "id": 98086783,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-12-10T16:37:13Z",
+            "open_issues": 16,
             "owner": "mo",
             "repo": "abortcontroller-polyfill",
-            "stars": 340
+            "stars": 340,
+            "topics": [
+              "abortcontroller",
+              "abortsignal",
+              "fetch",
+              "javascript",
+              "polyfill",
+              "ponyfill"
+            ]
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -632,12 +943,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js implementation of the Web Bluetooth Specification",
+            "homepage": "https://thegecko.github.io/webbluetooth/",
             "id": 111308426,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-17T19:15:34Z",
+            "open_issues": 10,
             "owner": "thegecko",
             "repo": "webbluetooth",
-            "stars": 201
+            "stars": 201,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -648,12 +964,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adds console.table method that prints an array of objects as a table in console",
+            "homepage": null,
             "id": 18352290,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-11-18T21:37:13Z",
+            "open_issues": 5,
             "owner": "bahmutov",
             "repo": "console.table",
-            "stars": 139
+            "stars": 139,
+            "topics": [
+              "console",
+              "nodejs",
+              "table"
+            ]
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -664,12 +989,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Web Cryptography API shim for legacy browsers",
+            "homepage": "https://vibornoff.github.io/webcrypto-shim/",
             "id": 40387153,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-03-23T08:44:58Z",
+            "open_issues": 6,
             "owner": "vibornoff",
             "repo": "webcrypto-shim",
-            "stars": 122
+            "stars": 122,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -680,12 +1010,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XMLHttpRequest emulator for node.js",
+            "homepage": null,
             "id": 7867844,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2022-09-01T16:03:36Z",
+            "open_issues": 26,
             "owner": "pwnall",
             "repo": "node-xhr2",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -696,12 +1031,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔎 Polyfill for the PerformanceObserver API",
+            "homepage": null,
             "id": 190827822,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-01-05T12:57:52Z",
+            "open_issues": 12,
             "owner": "fastly",
             "repo": "performance-observer-polyfill",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "fastly-oss-tier2"
+            ]
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -712,12 +1054,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform Blob implementation for Node.js and the Web.",
+            "homepage": null,
             "id": 222170178,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-10-18T04:41:40Z",
+            "open_issues": 1,
             "owner": "Richienb",
             "repo": "cross-blob",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -728,12 +1075,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform FormData support.",
+            "homepage": null,
             "id": 222354486,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-08-14T05:18:38Z",
+            "open_issues": 1,
             "owner": "Richienb",
             "repo": "cross-formdata",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -744,12 +1096,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Test",
+            "homepage": null,
             "id": 336187529,
             "language": null,
+            "license": null,
             "last_commit": "2021-02-05T06:42:49Z",
+            "open_issues": 2,
             "owner": "braveg1rl",
             "repo": "performance-now",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         }
@@ -766,12 +1123,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node's event emitter for all engines.",
+            "homepage": null,
             "id": 1649251,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-12-21T09:59:54Z",
+            "open_issues": 14,
             "owner": "browserify",
             "repo": "events",
-            "stars": 1408
+            "stars": 1408,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -782,12 +1144,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny library (<200B gzip) for deferring something by a \"tick\"",
+            "homepage": null,
             "id": 126867867,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-06-13T09:55:04Z",
+            "open_issues": 2,
             "owner": "jamiebuilds",
             "repo": "tickedoff",
-            "stars": 217
+            "stars": 217,
+            "topics": [
+              "async",
+              "defer",
+              "javascript",
+              "nexttick",
+              "polyfill",
+              "ponyfill",
+              "promise",
+              "setimmediate",
+              "settimeout",
+              "sleep",
+              "wait"
+            ]
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -798,12 +1177,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Environment agnostic nextTick polyfill",
+            "homepage": null,
             "id": 5605834,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2021-06-30T16:05:41Z",
+            "open_issues": 2,
             "owner": "medikoo",
             "repo": "next-tick",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -814,12 +1198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ponyfill for Buffer.from",
+            "homepage": null,
             "id": 66025821,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-07-29T17:05:31Z",
+            "open_issues": 1,
             "owner": "LinusU",
             "repo": "buffer-from",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         },
@@ -830,12 +1219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gracefully terminate a script in Node.js or browsers.",
+            "homepage": null,
             "id": 232784621,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-08-14T05:18:29Z",
+            "open_issues": 0,
             "owner": "Richienb",
             "repo": "cross-exit",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
         }
@@ -844,15 +1238,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:26:50.435Z",
+    "last_updated": "2026-08-29T05:04:10.038Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
+      "homepage": null,
       "id": 230831665,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2020-10-21T19:20:01Z",
+      "open_issues": 0,
       "owner": "Richienb",
       "repo": "awesome-ponyfills",
-      "stars": 66
+      "stars": 66,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "ecmascript",
+        "javascript",
+        "node",
+        "nodejs",
+        "ponyfill",
+        "ponyfills"
+      ]
     },
     "original_repository_sha": "303996852d98f5ae70c64ed91598671680691ef0",
     "enhanced_repository": "enhansome/enhansome-ponyfills",
