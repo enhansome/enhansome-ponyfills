@@ -168,8 +168,8 @@
             "id": 6602323,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-07-05T15:14:35Z",
-            "open_issues": 8,
+            "last_commit": "2026-08-31T18:20:35Z",
+            "open_issues": 7,
             "owner": "MikeMcl",
             "repo": "bignumber.js",
             "stars": 7009,
@@ -948,7 +948,7 @@
             "id": 111308426,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-17T19:15:34Z",
+            "last_commit": "2026-08-31T21:09:14Z",
             "open_issues": 10,
             "owner": "thegecko",
             "repo": "webbluetooth",
@@ -1132,7 +1132,7 @@
             "open_issues": 14,
             "owner": "browserify",
             "repo": "events",
-            "stars": 1408,
+            "stars": 1409,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T15:06:40.661Z",
+    "last_updated": "2026-09-01T12:34:48.449Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
