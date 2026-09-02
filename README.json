@@ -903,7 +903,7 @@
             "open_issues": 1,
             "owner": "chrisdickinson",
             "repo": "raf",
-            "stars": 738,
+            "stars": 737,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T12:34:48.449Z",
+    "last_updated": "2026-09-02T12:06:55.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
