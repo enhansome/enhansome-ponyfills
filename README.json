@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "stefanpenner",
             "repo": "es6-promise",
-            "stars": 7253,
+            "stars": 7252,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -169,7 +169,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-31T18:20:35Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "MikeMcl",
             "repo": "bignumber.js",
             "stars": 7010,
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:08:10.979Z",
+    "last_updated": "2026-09-05T11:16:37.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
