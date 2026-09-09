@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "stefanpenner",
             "repo": "es6-promise",
-            "stars": 7251,
+            "stars": 7249,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -172,7 +172,7 @@
             "open_issues": 8,
             "owner": "MikeMcl",
             "repo": "bignumber.js",
-            "stars": 7011,
+            "stars": 7010,
             "topics": [
               "arbitrary-precision",
               "bigdecimal",
@@ -395,7 +395,7 @@
             "open_issues": 17,
             "owner": "bestiejs",
             "repo": "json3",
-            "stars": 1020,
+            "stars": 1019,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -416,7 +416,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "object-assign",
-            "stars": 916,
+            "stars": 915,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -495,7 +495,7 @@
             "open_issues": 0,
             "owner": "ljharb",
             "repo": "object-keys",
-            "stars": 44,
+            "stars": 43,
             "topics": [
               "ecmascript",
               "es-shims",
@@ -552,7 +552,7 @@
             "open_issues": 1,
             "owner": "es-shims",
             "repo": "object-is",
-            "stars": 25,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -596,7 +596,7 @@
             "id": 28753032,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-17T06:25:01Z",
+            "last_commit": "2026-09-09T05:27:40Z",
             "open_issues": 1,
             "owner": "es-shims",
             "repo": "array-includes",
@@ -678,7 +678,7 @@
             "open_issues": 8,
             "owner": "b12-archive",
             "repo": "array-from",
-            "stars": 17,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -903,7 +903,7 @@
             "open_issues": 1,
             "owner": "chrisdickinson",
             "repo": "raf",
-            "stars": 737,
+            "stars": 736,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -1132,7 +1132,7 @@
             "open_issues": 14,
             "owner": "browserify",
             "repo": "events",
-            "stars": 1409,
+            "stars": 1408,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T12:09:03.009Z",
+    "last_updated": "2026-09-09T12:20:42.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
