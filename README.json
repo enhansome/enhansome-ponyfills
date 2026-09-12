@@ -596,7 +596,7 @@
             "id": 28753032,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T22:45:32Z",
+            "last_commit": "2026-09-11T19:29:55Z",
             "open_issues": 1,
             "owner": "es-shims",
             "repo": "array-includes",
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T12:12:33.043Z",
+    "last_updated": "2026-09-12T11:36:54.446Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",

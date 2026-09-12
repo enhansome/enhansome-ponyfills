@@ -27,7 +27,7 @@
 
 ## Main
 
-* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,531 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-11 - The entire standard library.
+* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,530 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-11 - The entire standard library.
 
 ## Uncategorised
 
@@ -67,7 +67,7 @@
 ## Arrays
 
 * [isarray](https://github.com/juliangruber/isarray) ⭐ 131 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-21 - [`Array.isArray`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
-* [array-includes](https://github.com/es-shims/array-includes) ⭐ 43 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-09 - [`Array.prototype.includes`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
+* [array-includes](https://github.com/es-shims/array-includes) ⭐ 43 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-11 - [`Array.prototype.includes`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
 * [array.prototype.find](https://github.com/paulmillr/Array.prototype.find) ⭐ 38 | 🐛 1 | 🌐 JavaScript | 📅 2024-03-19 - [`Array.prototype.find`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
 * [array.prototype.flatmap](https://github.com/es-shims/Array.prototype.flatMap) ⭐ 33 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-30 - [`Array.prototype.flatMap`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap)
 * [array-from](https://github.com/studio-b12/array-from) ⚠️ Archived - [`Array.from`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
