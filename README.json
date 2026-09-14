@@ -172,7 +172,7 @@
             "open_issues": 8,
             "owner": "MikeMcl",
             "repo": "bignumber.js",
-            "stars": 7009,
+            "stars": 7008,
             "topics": [
               "arbitrary-precision",
               "bigdecimal",
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T12:43:56.798Z",
+    "last_updated": "2026-09-14T14:04:19.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
