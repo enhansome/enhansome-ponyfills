@@ -27,11 +27,11 @@
 
 ## Main
 
-* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,533 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-15 - The entire standard library.
+* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,533 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-18 - The entire standard library.
 
 ## Uncategorised
 
-* [es6-promise](https://github.com/stefanpenner/es6-promise) ⭐ 7,249 | 🐛 26 | 🌐 JavaScript | 📅 2022-11-14 - [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+* [es6-promise](https://github.com/stefanpenner/es6-promise) ⭐ 7,250 | 🐛 26 | 🌐 JavaScript | 📅 2022-11-14 - [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 * [es6-symbol](https://github.com/medikoo/es6-symbol) ⭐ 179 | 🐛 2 | 🌐 JavaScript | 📅 2024-03-01 - [`Symbol`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol)
 * [globalthis](https://github.com/ljharb/System.global) ⭐ 157 | 🐛 2 | 🌐 JavaScript | 📅 2025-12-30 - [`globalThis`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/globalThis)
 * [es6-map](https://github.com/medikoo/es6-map) ⭐ 73 | 🐛 1 | 🌐 JavaScript | 📅 2021-06-30 - [`Map`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
@@ -41,7 +41,7 @@
 
 ## Numbers
 
-* [bignumber.js](https://github.com/MikeMcl/bignumber.js) ⭐ 7,008 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-31 - [`BigInt`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+* [bignumber.js](https://github.com/MikeMcl/bignumber.js) ⭐ 7,009 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-31 - [`BigInt`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 * [number-is-nan](https://github.com/sindresorhus/number-is-nan) ⚠️ Archived - [`Number.isNaN`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isNaN)
 * [is-finite](https://github.com/sindresorhus/is-finite) ⚠️ Archived - [`Number.isFinite`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isFinite)
 * [is-integer](https://github.com/parshap/js-is-integer) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2017-05-05 - [`Number.isInteger`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isInteger)
@@ -80,8 +80,8 @@
 ## Browser Features
 
 * [resize-observer-polyfill](https://github.com/que-etc/resize-observer-polyfill) ⭐ 1,752 | 🐛 59 | 🌐 JavaScript | 📅 2023-01-27 - [`ResizeObserver`](https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver)
-* [cross-fetch](https://github.com/lquixada/cross-fetch) ⭐ 1,695 | 🐛 27 | 🌐 JavaScript | 📅 2025-04-15 - [`fetch`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-* [css-vars-ponyfill](https://github.com/jhildenbiddle/css-vars-ponyfill/) ⭐ 1,459 | 🐛 5 | 🌐 JavaScript | 📅 2024-03-05 - [CSS variables/custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+* [cross-fetch](https://github.com/lquixada/cross-fetch) ⭐ 1,696 | 🐛 27 | 🌐 JavaScript | 📅 2025-04-15 - [`fetch`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+* [css-vars-ponyfill](https://github.com/jhildenbiddle/css-vars-ponyfill/) ⭐ 1,458 | 🐛 5 | 🌐 JavaScript | 📅 2024-03-05 - [CSS variables/custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 * [raf](https://github.com/chrisdickinson/raf) ⭐ 735 | 🐛 1 | 🌐 JavaScript | 📅 2022-01-31 - [`requestAnimationFrame`](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
 * [abortcontroller-polyfill](https://github.com/mo/abortcontroller-polyfill) ⭐ 340 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-10 - [`AbortController`](https://developer.mozilla.org/en-US/docs/Web/API/AbortController)
 * [webbluetooth](https://github.com/thegecko/webbluetooth) ⭐ 201 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-14 - [`Bluetooth`](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

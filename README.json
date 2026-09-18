@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "stefanpenner",
             "repo": "es6-promise",
-            "stars": 7249,
+            "stars": 7250,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -172,7 +172,7 @@
             "open_issues": 8,
             "owner": "MikeMcl",
             "repo": "bignumber.js",
-            "stars": 7008,
+            "stars": 7009,
             "topics": [
               "arbitrary-precision",
               "bigdecimal",
@@ -829,7 +829,7 @@
             "open_issues": 27,
             "owner": "lquixada",
             "repo": "cross-fetch",
-            "stars": 1695,
+            "stars": 1696,
             "topics": [
               "cross-fetch",
               "fetch",
@@ -861,7 +861,7 @@
             "open_issues": 5,
             "owner": "jhildenbiddle",
             "repo": "css-vars-ponyfill",
-            "stars": 1459,
+            "stars": 1458,
             "topics": [
               "client",
               "client-side",
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T12:36:02.039Z",
+    "last_updated": "2026-09-18T12:14:25.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
