@@ -27,7 +27,7 @@
 
 ## Main
 
-* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,533 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-18 - The entire standard library.
+* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,534 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-19 - The entire standard library.
 
 ## Uncategorised
 
@@ -57,7 +57,7 @@
 ## Objects
 
 * [json3](https://github.com/bestiejs/json3) ⚠️ Archived - [`JSON`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
-* [object-assign](https://github.com/sindresorhus/object-assign) ⭐ 915 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-05 - [`Object.assign`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
+* [object-assign](https://github.com/sindresorhus/object-assign) ⭐ 915 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - [`Object.assign`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
 * [object.values](https://github.com/es-shims/Object.values) ⭐ 72 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-30 - [`Object.values`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values)
 * [object.entries](https://github.com/es-shims/Object.entries) ⭐ 59 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-30 - [`Object.entries`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries)
 * [object-keys](https://github.com/ljharb/object-keys) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-17 - [`Object.keys`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
