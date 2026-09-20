@@ -803,7 +803,7 @@
             "open_issues": 59,
             "owner": "que-etc",
             "repo": "resize-observer-polyfill",
-            "stars": 1752,
+            "stars": 1751,
             "topics": [
               "polyfill",
               "ponyfill",
@@ -861,7 +861,7 @@
             "open_issues": 5,
             "owner": "jhildenbiddle",
             "repo": "css-vars-ponyfill",
-            "stars": 1458,
+            "stars": 1457,
             "topics": [
               "client",
               "client-side",
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:56:02.366Z",
+    "last_updated": "2026-09-20T12:22:59.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
