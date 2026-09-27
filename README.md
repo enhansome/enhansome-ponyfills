@@ -27,7 +27,7 @@
 
 ## Main
 
-* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,536 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-26 - The entire standard library.
+* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,536 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-27 - The entire standard library.
 
 ## Uncategorised
 
@@ -57,7 +57,7 @@
 ## Objects
 
 * [json3](https://github.com/bestiejs/json3) ⚠️ Archived - [`JSON`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
-* [object-assign](https://github.com/sindresorhus/object-assign) ⭐ 915 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - [`Object.assign`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
+* [object-assign](https://github.com/sindresorhus/object-assign) ⭐ 916 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - [`Object.assign`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
 * [object.values](https://github.com/es-shims/Object.values) ⭐ 72 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-30 - [`Object.values`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values)
 * [object.entries](https://github.com/es-shims/Object.entries) ⭐ 59 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-30 - [`Object.entries`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries)
 * [object-keys](https://github.com/ljharb/object-keys) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-17 - [`Object.keys`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
@@ -79,7 +79,7 @@
 
 ## Browser Features
 
-* [resize-observer-polyfill](https://github.com/que-etc/resize-observer-polyfill) ⭐ 1,751 | 🐛 59 | 🌐 JavaScript | 📅 2023-01-27 - [`ResizeObserver`](https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver)
+* [resize-observer-polyfill](https://github.com/que-etc/resize-observer-polyfill) ⭐ 1,750 | 🐛 59 | 🌐 JavaScript | 📅 2023-01-27 - [`ResizeObserver`](https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver)
 * [cross-fetch](https://github.com/lquixada/cross-fetch) ⭐ 1,696 | 🐛 27 | 🌐 JavaScript | 📅 2025-04-15 - [`fetch`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 * [css-vars-ponyfill](https://github.com/jhildenbiddle/css-vars-ponyfill/) ⭐ 1,457 | 🐛 5 | 🌐 JavaScript | 📅 2024-03-05 - [CSS variables/custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 * [raf](https://github.com/chrisdickinson/raf) ⭐ 735 | 🐛 1 | 🌐 JavaScript | 📅 2022-01-31 - [`requestAnimationFrame`](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
@@ -87,7 +87,7 @@
 * [webbluetooth](https://github.com/thegecko/webbluetooth) ⭐ 201 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-22 - [`Bluetooth`](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
 * [console.table](https://github.com/bahmutov/console.table) ⭐ 139 | 🐛 5 | 🌐 JavaScript | 📅 2020-11-18 - [`console.table`](https://developer.mozilla.org/en-US/docs/Web/API/Console/table)
 * [webcrypto-shim](https://github.com/vibornoff/webcrypto-shim) ⚠️ Archived - [`crypto`](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
-* [xhr2](https://github.com/pwnall/node-xhr2) ⭐ 108 | 🐛 26 | 🌐 CoffeeScript | 📅 2022-09-01 - [`XMLHttpRequest`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
+* [xhr2](https://github.com/pwnall/node-xhr2) ⭐ 109 | 🐛 26 | 🌐 CoffeeScript | 📅 2022-09-01 - [`XMLHttpRequest`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
 * [@fastly/performance-observer-polyfill](https://github.com/fastly/performance-observer-polyfill) ⭐ 32 | 🐛 12 | 🌐 TypeScript | 📅 2024-01-05 - [`PerformanceObserver`](https://developer.mozilla.org/en-US/docs/Web/API/PerformanceObserver)
 * [cross-blob](https://github.com/Richienb/cross-blob) ⭐ 12 | 🐛 1 | 🌐 JavaScript | 📅 2022-10-18 - [`Blob`](https://developer.mozilla.org/en-US/docs/Web/API/Blob)
 * [cross-formdata](https://github.com/Richienb/cross-formdata) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2021-08-14 - [`FormData`](https://developer.mozilla.org/en-US/docs/Web/API/FormData)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
