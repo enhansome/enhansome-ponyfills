@@ -27,7 +27,7 @@
 
 ## Main
 
-* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,536 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-28 - The entire standard library.
+* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,536 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-29 - The entire standard library.
 
 ## Uncategorised
 
@@ -84,10 +84,10 @@
 * [css-vars-ponyfill](https://github.com/jhildenbiddle/css-vars-ponyfill/) ⭐ 1,457 | 🐛 5 | 🌐 JavaScript | 📅 2024-03-05 - [CSS variables/custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 * [raf](https://github.com/chrisdickinson/raf) ⭐ 735 | 🐛 1 | 🌐 JavaScript | 📅 2022-01-31 - [`requestAnimationFrame`](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
 * [abortcontroller-polyfill](https://github.com/mo/abortcontroller-polyfill) ⭐ 340 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-10 - [`AbortController`](https://developer.mozilla.org/en-US/docs/Web/API/AbortController)
-* [webbluetooth](https://github.com/thegecko/webbluetooth) ⭐ 201 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-22 - [`Bluetooth`](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
+* [webbluetooth](https://github.com/thegecko/webbluetooth) ⭐ 201 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-29 - [`Bluetooth`](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
 * [console.table](https://github.com/bahmutov/console.table) ⭐ 139 | 🐛 5 | 🌐 JavaScript | 📅 2020-11-18 - [`console.table`](https://developer.mozilla.org/en-US/docs/Web/API/Console/table)
 * [webcrypto-shim](https://github.com/vibornoff/webcrypto-shim) ⚠️ Archived - [`crypto`](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
-* [xhr2](https://github.com/pwnall/node-xhr2) ⭐ 109 | 🐛 26 | 🌐 CoffeeScript | 📅 2022-09-01 - [`XMLHttpRequest`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
+* [xhr2](https://github.com/pwnall/node-xhr2) ⭐ 108 | 🐛 26 | 🌐 CoffeeScript | 📅 2022-09-01 - [`XMLHttpRequest`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
 * [@fastly/performance-observer-polyfill](https://github.com/fastly/performance-observer-polyfill) ⭐ 32 | 🐛 12 | 🌐 TypeScript | 📅 2024-01-05 - [`PerformanceObserver`](https://developer.mozilla.org/en-US/docs/Web/API/PerformanceObserver)
 * [cross-blob](https://github.com/Richienb/cross-blob) ⭐ 12 | 🐛 1 | 🌐 JavaScript | 📅 2022-10-18 - [`Blob`](https://developer.mozilla.org/en-US/docs/Web/API/Blob)
 * [cross-formdata](https://github.com/Richienb/cross-formdata) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2021-08-14 - [`FormData`](https://developer.mozilla.org/en-US/docs/Web/API/FormData)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._

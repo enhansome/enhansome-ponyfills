@@ -948,7 +948,7 @@
             "id": 111308426,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T09:27:50Z",
+            "last_commit": "2026-09-29T10:57:59Z",
             "open_issues": 10,
             "owner": "thegecko",
             "repo": "webbluetooth",
@@ -1019,7 +1019,7 @@
             "open_issues": 26,
             "owner": "pwnall",
             "repo": "node-xhr2",
-            "stars": 109,
+            "stars": 108,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T15:29:15.550Z",
+    "last_updated": "2026-09-29T14:04:57.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
