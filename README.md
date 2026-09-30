@@ -27,7 +27,7 @@
 
 ## Main
 
-* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,536 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-29 - The entire standard library.
+* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,536 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-30 - The entire standard library.
 
 ## Uncategorised
 
@@ -79,7 +79,7 @@
 
 ## Browser Features
 
-* [resize-observer-polyfill](https://github.com/que-etc/resize-observer-polyfill) ⭐ 1,750 | 🐛 59 | 🌐 JavaScript | 📅 2023-01-27 - [`ResizeObserver`](https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver)
+* [resize-observer-polyfill](https://github.com/que-etc/resize-observer-polyfill) ⭐ 1,749 | 🐛 59 | 🌐 JavaScript | 📅 2023-01-27 - [`ResizeObserver`](https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver)
 * [cross-fetch](https://github.com/lquixada/cross-fetch) ⭐ 1,696 | 🐛 27 | 🌐 JavaScript | 📅 2025-04-15 - [`fetch`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 * [css-vars-ponyfill](https://github.com/jhildenbiddle/css-vars-ponyfill/) ⭐ 1,457 | 🐛 5 | 🌐 JavaScript | 📅 2024-03-05 - [CSS variables/custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 * [raf](https://github.com/chrisdickinson/raf) ⭐ 735 | 🐛 1 | 🌐 JavaScript | 📅 2022-01-31 - [`requestAnimationFrame`](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
