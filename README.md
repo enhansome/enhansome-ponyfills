@@ -27,7 +27,7 @@
 
 ## Main
 
-* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,534 | 🐛 45 | 🌐 JavaScript | 📅 2026-10-02 - The entire standard library.
+* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,535 | 🐛 45 | 🌐 JavaScript | 📅 2026-10-02 - The entire standard library.
 
 ## Uncategorised
 
