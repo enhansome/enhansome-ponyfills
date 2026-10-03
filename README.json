@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "es6-promise",
-          "description": null,
+          "description": "stefanpenner/es6-promise",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "es6-symbol",
-          "description": null,
+          "description": "medikoo/es6-symbol",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "globalthis",
-          "description": null,
+          "description": "es-shims/globalThis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -69,7 +69,7 @@
         {
           "node_type": "item",
           "title": "es6-map",
-          "description": null,
+          "description": "medikoo/es6-map",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -90,7 +90,7 @@
         {
           "node_type": "item",
           "title": "es6-set",
-          "description": null,
+          "description": "medikoo/es6-set",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -111,7 +111,7 @@
         {
           "node_type": "item",
           "title": "es6-weak-map",
-          "description": null,
+          "description": "medikoo/es6-weak-map",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -132,7 +132,7 @@
         {
           "node_type": "item",
           "title": "named-regexp-groups",
-          "description": null,
+          "description": "commenthol/named-regexp-groups",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -159,7 +159,7 @@
         {
           "node_type": "item",
           "title": "bignumber.js",
-          "description": null,
+          "description": "MikeMcl/bignumber.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -172,7 +172,7 @@
             "open_issues": 8,
             "owner": "MikeMcl",
             "repo": "bignumber.js",
-            "stars": 7010,
+            "stars": 7011,
             "topics": [
               "arbitrary-precision",
               "bigdecimal",
@@ -186,7 +186,7 @@
         {
           "node_type": "item",
           "title": "number-is-nan",
-          "description": null,
+          "description": "sindresorhus/number-is-nan",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -207,7 +207,7 @@
         {
           "node_type": "item",
           "title": "is-finite",
-          "description": null,
+          "description": "sindresorhus/is-finite",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -228,7 +228,7 @@
         {
           "node_type": "item",
           "title": "is-integer",
-          "description": null,
+          "description": "parshap/js-is-integer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -255,7 +255,7 @@
         {
           "node_type": "item",
           "title": "string.prototype.replaceall",
-          "description": null,
+          "description": "es-shims/String.prototype.replaceAll",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -276,7 +276,7 @@
         {
           "node_type": "item",
           "title": "indexof",
-          "description": null,
+          "description": "component/indexof",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -297,7 +297,7 @@
         {
           "node_type": "item",
           "title": "string.prototype.trim",
-          "description": null,
+          "description": "es-shims/String.prototype.trim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -325,7 +325,7 @@
         {
           "node_type": "item",
           "title": "string.prototype.trimleft",
-          "description": null,
+          "description": "es-shims/String.prototype.trimLeft",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -346,7 +346,7 @@
         {
           "node_type": "item",
           "title": "string.prototype.trimright",
-          "description": null,
+          "description": "es-shims/String.prototype.trimRight",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -382,7 +382,7 @@
         {
           "node_type": "item",
           "title": "json3",
-          "description": null,
+          "description": "bestiejs/json3",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -403,7 +403,7 @@
         {
           "node_type": "item",
           "title": "object-assign",
-          "description": null,
+          "description": "sindresorhus/object-assign",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -424,7 +424,7 @@
         {
           "node_type": "item",
           "title": "object.values",
-          "description": null,
+          "description": "es-shims/Object.values",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -452,7 +452,7 @@
         {
           "node_type": "item",
           "title": "object.entries",
-          "description": null,
+          "description": "es-shims/Object.entries",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -482,7 +482,7 @@
         {
           "node_type": "item",
           "title": "object-keys",
-          "description": null,
+          "description": "ljharb/object-keys",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -512,7 +512,7 @@
         {
           "node_type": "item",
           "title": "object.fromentries",
-          "description": null,
+          "description": "es-shims/Object.fromEntries",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -539,7 +539,7 @@
         {
           "node_type": "item",
           "title": "object-is",
-          "description": null,
+          "description": "es-shims/object-is",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -566,7 +566,7 @@
         {
           "node_type": "item",
           "title": "isarray",
-          "description": null,
+          "description": "juliangruber/isarray",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -587,7 +587,7 @@
         {
           "node_type": "item",
           "title": "array-includes",
-          "description": null,
+          "description": "es-shims/array-includes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -616,7 +616,7 @@
         {
           "node_type": "item",
           "title": "array.prototype.find",
-          "description": null,
+          "description": "es-shims/Array.prototype.find",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -637,7 +637,7 @@
         {
           "node_type": "item",
           "title": "array.prototype.flatmap",
-          "description": null,
+          "description": "es-shims/Array.prototype.flatMap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -665,7 +665,7 @@
         {
           "node_type": "item",
           "title": "array-from",
-          "description": null,
+          "description": "b12-archive/array-from",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -686,7 +686,7 @@
         {
           "node_type": "item",
           "title": "indexof",
-          "description": ".",
+          "description": "component/indexof",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -707,7 +707,7 @@
         {
           "node_type": "item",
           "title": "array-foreach",
-          "description": null,
+          "description": "twada/array-foreach",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -728,7 +728,7 @@
         {
           "node_type": "item",
           "title": "array.prototype.every",
-          "description": null,
+          "description": "es-shims/Array.prototype.every",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -756,7 +756,7 @@
         {
           "node_type": "item",
           "title": "array.prototype.some",
-          "description": null,
+          "description": "es-shims/Array.prototype.some",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -790,7 +790,7 @@
         {
           "node_type": "item",
           "title": "resize-observer-polyfill",
-          "description": null,
+          "description": "que-etc/resize-observer-polyfill",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -816,7 +816,7 @@
         {
           "node_type": "item",
           "title": "cross-fetch",
-          "description": null,
+          "description": "lquixada/cross-fetch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -890,7 +890,7 @@
         {
           "node_type": "item",
           "title": "raf",
-          "description": null,
+          "description": "chrisdickinson/raf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -911,7 +911,7 @@
         {
           "node_type": "item",
           "title": "abortcontroller-polyfill",
-          "description": null,
+          "description": "mo/abortcontroller-polyfill",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -939,7 +939,7 @@
         {
           "node_type": "item",
           "title": "webbluetooth",
-          "description": null,
+          "description": "thegecko/webbluetooth",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -960,7 +960,7 @@
         {
           "node_type": "item",
           "title": "console.table",
-          "description": null,
+          "description": "bahmutov/console.table",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -985,7 +985,7 @@
         {
           "node_type": "item",
           "title": "webcrypto-shim",
-          "description": null,
+          "description": "vibornoff/webcrypto-shim",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1006,7 +1006,7 @@
         {
           "node_type": "item",
           "title": "xhr2",
-          "description": null,
+          "description": "pwnall/node-xhr2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1027,7 +1027,7 @@
         {
           "node_type": "item",
           "title": "@fastly/performance-observer-polyfill",
-          "description": null,
+          "description": "fastly/performance-observer-polyfill",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1050,7 +1050,7 @@
         {
           "node_type": "item",
           "title": "cross-blob",
-          "description": null,
+          "description": "Richienb/cross-blob",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1071,7 +1071,7 @@
         {
           "node_type": "item",
           "title": "cross-formdata",
-          "description": null,
+          "description": "Richienb/cross-formdata",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1092,7 +1092,7 @@
         {
           "node_type": "item",
           "title": "performance-now",
-          "description": null,
+          "description": "braveg1rl/performance-now",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1119,7 +1119,7 @@
         {
           "node_type": "item",
           "title": "events",
-          "description": null,
+          "description": "browserify/events",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1140,7 +1140,7 @@
         {
           "node_type": "item",
           "title": "tickedoff",
-          "description": null,
+          "description": "jamiebuilds/tickedoff",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1173,7 +1173,7 @@
         {
           "node_type": "item",
           "title": "next-tick",
-          "description": null,
+          "description": "medikoo/next-tick",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1194,7 +1194,7 @@
         {
           "node_type": "item",
           "title": "buffer-from",
-          "description": null,
+          "description": "LinusU/buffer-from",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1215,7 +1215,7 @@
         {
           "node_type": "item",
           "title": "cross-exit",
-          "description": null,
+          "description": "Richienb/cross-exit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:52:31.825Z",
+    "last_updated": "2026-10-03T05:03:01.804Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
