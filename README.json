@@ -172,7 +172,7 @@
             "open_issues": 8,
             "owner": "MikeMcl",
             "repo": "bignumber.js",
-            "stars": 7011,
+            "stars": 7010,
             "topics": [
               "arbitrary-precision",
               "bigdecimal",
@@ -829,7 +829,7 @@
             "open_issues": 27,
             "owner": "lquixada",
             "repo": "cross-fetch",
-            "stars": 1695,
+            "stars": 1694,
             "topics": [
               "cross-fetch",
               "fetch",
@@ -948,7 +948,7 @@
             "id": 111308426,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T10:57:59Z",
+            "last_commit": "2026-10-04T18:34:55Z",
             "open_issues": 10,
             "owner": "thegecko",
             "repo": "webbluetooth",
@@ -1132,7 +1132,7 @@
             "open_issues": 13,
             "owner": "browserify",
             "repo": "events",
-            "stars": 1408,
+            "stars": 1409,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T13:12:20.702Z",
+    "last_updated": "2026-10-05T16:01:18.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
