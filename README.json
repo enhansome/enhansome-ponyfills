@@ -172,7 +172,7 @@
             "open_issues": 8,
             "owner": "MikeMcl",
             "repo": "bignumber.js",
-            "stars": 7010,
+            "stars": 7011,
             "topics": [
               "arbitrary-precision",
               "bigdecimal",
@@ -948,8 +948,8 @@
             "id": 111308426,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T08:25:38Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-06T10:25:08Z",
+            "open_issues": 10,
             "owner": "thegecko",
             "repo": "webbluetooth",
             "stars": 201,
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:20:26.865Z",
+    "last_updated": "2026-10-06T14:12:18.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
