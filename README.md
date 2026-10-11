@@ -27,7 +27,7 @@
 
 ## Main
 
-* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,531 | 🐛 46 | 🌐 JavaScript | 📅 2026-10-08 - The entire standard library.
+* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,527 | 🐛 46 | 🌐 JavaScript | 📅 2026-10-11 - The entire standard library.
 
 ## Uncategorised
 
@@ -66,7 +66,7 @@
 
 ## Arrays
 
-* [isarray](https://github.com/juliangruber/isarray) ⭐ 131 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-13 - [`Array.isArray`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
+* [isarray](https://github.com/juliangruber/isarray) ⭐ 130 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-13 - [`Array.isArray`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
 * [array-includes](https://github.com/es-shims/array-includes) ⭐ 43 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-11 - [`Array.prototype.includes`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
 * [array.prototype.find](https://github.com/paulmillr/Array.prototype.find) ⭐ 38 | 🐛 1 | 🌐 JavaScript | 📅 2024-03-19 - [`Array.prototype.find`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
 * [array.prototype.flatmap](https://github.com/es-shims/Array.prototype.flatMap) ⭐ 33 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-30 - [`Array.prototype.flatMap`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap)
@@ -82,7 +82,7 @@
 * [resize-observer-polyfill](https://github.com/que-etc/resize-observer-polyfill) ⭐ 1,748 | 🐛 59 | 🌐 JavaScript | 📅 2023-01-27 - [`ResizeObserver`](https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver)
 * [cross-fetch](https://github.com/lquixada/cross-fetch) ⭐ 1,694 | 🐛 27 | 🌐 JavaScript | 📅 2025-04-15 - [`fetch`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 * [css-vars-ponyfill](https://github.com/jhildenbiddle/css-vars-ponyfill/) ⭐ 1,454 | 🐛 5 | 🌐 JavaScript | 📅 2024-03-05 - [CSS variables/custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
-* [raf](https://github.com/chrisdickinson/raf) ⭐ 735 | 🐛 1 | 🌐 JavaScript | 📅 2022-01-31 - [`requestAnimationFrame`](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
+* [raf](https://github.com/chrisdickinson/raf) ⭐ 735 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-31 - [`requestAnimationFrame`](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
 * [abortcontroller-polyfill](https://github.com/mo/abortcontroller-polyfill) ⭐ 340 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-10 - [`AbortController`](https://developer.mozilla.org/en-US/docs/Web/API/AbortController)
 * [webbluetooth](https://github.com/thegecko/webbluetooth) ⭐ 201 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-06 - [`Bluetooth`](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
 * [console.table](https://github.com/bahmutov/console.table) ⭐ 139 | 🐛 5 | 🌐 JavaScript | 📅 2020-11-18 - [`console.table`](https://developer.mozilla.org/en-US/docs/Web/API/Console/table)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
