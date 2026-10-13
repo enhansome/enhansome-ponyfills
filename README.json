@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "stefanpenner",
             "repo": "es6-promise",
-            "stars": 7249,
+            "stars": 7247,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -40,7 +40,7 @@
             "open_issues": 2,
             "owner": "medikoo",
             "repo": "es6-symbol",
-            "stars": 179,
+            "stars": 178,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -575,8 +575,8 @@
             "id": 10227611,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T10:59:20Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-13T09:22:07Z",
+            "open_issues": 2,
             "owner": "juliangruber",
             "repo": "isarray",
             "stars": 130,
@@ -803,7 +803,7 @@
             "open_issues": 59,
             "owner": "que-etc",
             "repo": "resize-observer-polyfill",
-            "stars": 1748,
+            "stars": 1747,
             "topics": [
               "polyfill",
               "ponyfill",
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T16:44:33.624Z",
+    "last_updated": "2026-10-13T15:04:01.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",

@@ -27,12 +27,12 @@
 
 ## Main
 
-* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,527 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-12 - The entire standard library.
+* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,528 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-13 - The entire standard library.
 
 ## Uncategorised
 
-* [es6-promise](https://github.com/stefanpenner/es6-promise) ⭐ 7,249 | 🐛 26 | 🌐 JavaScript | 📅 2022-11-14 - [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-* [es6-symbol](https://github.com/medikoo/es6-symbol) ⭐ 179 | 🐛 2 | 🌐 JavaScript | 📅 2024-03-01 - [`Symbol`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol)
+* [es6-promise](https://github.com/stefanpenner/es6-promise) ⭐ 7,247 | 🐛 26 | 🌐 JavaScript | 📅 2022-11-14 - [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+* [es6-symbol](https://github.com/medikoo/es6-symbol) ⭐ 178 | 🐛 2 | 🌐 JavaScript | 📅 2024-03-01 - [`Symbol`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol)
 * [globalthis](https://github.com/ljharb/System.global) ⭐ 157 | 🐛 2 | 🌐 JavaScript | 📅 2025-12-30 - [`globalThis`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/globalThis)
 * [es6-map](https://github.com/medikoo/es6-map) ⭐ 73 | 🐛 1 | 🌐 JavaScript | 📅 2021-06-30 - [`Map`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
 * [es6-set](https://github.com/medikoo/es6-set) ⭐ 46 | 🐛 1 | 🌐 JavaScript | 📅 2022-08-31 - [`Set`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
@@ -66,7 +66,7 @@
 
 ## Arrays
 
-* [isarray](https://github.com/juliangruber/isarray) ⭐ 130 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-12 - [`Array.isArray`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
+* [isarray](https://github.com/juliangruber/isarray) ⭐ 130 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-13 - [`Array.isArray`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
 * [array-includes](https://github.com/es-shims/array-includes) ⭐ 43 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-11 - [`Array.prototype.includes`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
 * [array.prototype.find](https://github.com/paulmillr/Array.prototype.find) ⭐ 38 | 🐛 1 | 🌐 JavaScript | 📅 2024-03-19 - [`Array.prototype.find`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
 * [array.prototype.flatmap](https://github.com/es-shims/Array.prototype.flatMap) ⭐ 33 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-30 - [`Array.prototype.flatMap`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap)
@@ -79,7 +79,7 @@
 
 ## Browser Features
 
-* [resize-observer-polyfill](https://github.com/que-etc/resize-observer-polyfill) ⭐ 1,748 | 🐛 59 | 🌐 JavaScript | 📅 2023-01-27 - [`ResizeObserver`](https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver)
+* [resize-observer-polyfill](https://github.com/que-etc/resize-observer-polyfill) ⭐ 1,747 | 🐛 59 | 🌐 JavaScript | 📅 2023-01-27 - [`ResizeObserver`](https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver)
 * [cross-fetch](https://github.com/lquixada/cross-fetch) ⭐ 1,694 | 🐛 27 | 🌐 JavaScript | 📅 2025-04-15 - [`fetch`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 * [css-vars-ponyfill](https://github.com/jhildenbiddle/css-vars-ponyfill/) ⭐ 1,454 | 🐛 5 | 🌐 JavaScript | 📅 2024-03-05 - [CSS variables/custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 * [raf](https://github.com/chrisdickinson/raf) ⭐ 735 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-31 - [`requestAnimationFrame`](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
