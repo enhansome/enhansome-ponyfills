@@ -172,7 +172,7 @@
             "open_issues": 9,
             "owner": "MikeMcl",
             "repo": "bignumber.js",
-            "stars": 7010,
+            "stars": 7011,
             "topics": [
               "arbitrary-precision",
               "bigdecimal",
@@ -416,7 +416,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "object-assign",
-            "stars": 916,
+            "stars": 917,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -495,7 +495,7 @@
             "open_issues": 0,
             "owner": "ljharb",
             "repo": "object-keys",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "ecmascript",
               "es-shims",
@@ -552,7 +552,7 @@
             "open_issues": 1,
             "owner": "es-shims",
             "repo": "object-is",
-            "stars": 24,
+            "stars": 25,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -678,7 +678,7 @@
             "open_issues": 8,
             "owner": "b12-archive",
             "repo": "array-from",
-            "stars": 16,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -803,7 +803,7 @@
             "open_issues": 59,
             "owner": "que-etc",
             "repo": "resize-observer-polyfill",
-            "stars": 1747,
+            "stars": 1746,
             "topics": [
               "polyfill",
               "ponyfill",
@@ -903,7 +903,7 @@
             "open_issues": 2,
             "owner": "chrisdickinson",
             "repo": "raf",
-            "stars": 735,
+            "stars": 736,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -948,7 +948,7 @@
             "id": 111308426,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:25:08Z",
+            "last_commit": "2026-10-14T09:13:52Z",
             "open_issues": 10,
             "owner": "thegecko",
             "repo": "webbluetooth",
@@ -1132,7 +1132,7 @@
             "open_issues": 13,
             "owner": "browserify",
             "repo": "events",
-            "stars": 1409,
+            "stars": 1410,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T15:04:01.202Z",
+    "last_updated": "2026-10-14T12:53:09.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
