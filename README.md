@@ -27,7 +27,7 @@
 
 ## Main
 
-* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,529 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-15 - The entire standard library.
+* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,529 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-16 - The entire standard library.
 
 ## Uncategorised
 
@@ -95,7 +95,7 @@
 
 ## Node.js Features
 
-* [events](https://github.com/Gozala/events) ⭐ 1,410 | 🐛 13 | 🌐 JavaScript | 📅 2024-12-21 - [`EventEmitter`](https://nodejs.org/api/events.html#events_class_eventemitter)
+* [events](https://github.com/Gozala/events) ⭐ 1,409 | 🐛 13 | 🌐 JavaScript | 📅 2024-12-21 - [`EventEmitter`](https://nodejs.org/api/events.html#events_class_eventemitter)
 * [tickedoff](https://github.com/jamiebuilds/tickedoff) ⭐ 217 | 🐛 2 | 🌐 JavaScript | 📅 2023-06-13 - [`setImmediate`](https://nodejs.org/api/timers.html#timers_setimmediate_callback_args)
 * [next-tick](https://github.com/medikoo/next-tick) ⭐ 74 | 🐛 2 | 🌐 JavaScript | 📅 2021-06-30 - [`process.nextTick`](https://nodejs.org/api/process.html#process_process_nexttick_callback_args)
 * [buffer-from](https://github.com/LinusU/buffer-from) ⭐ 25 | 🐛 1 | 🌐 JavaScript | 📅 2021-07-29 - [`Buffer.from`](https://nodejs.org/api/buffer.html#buffer_class_method_buffer_from_array)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._

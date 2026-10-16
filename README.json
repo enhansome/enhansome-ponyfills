@@ -1132,7 +1132,7 @@
             "open_issues": 13,
             "owner": "browserify",
             "repo": "events",
-            "stars": 1410,
+            "stars": 1409,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T12:39:55.541Z",
+    "last_updated": "2026-10-16T12:26:06.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
