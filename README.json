@@ -1129,10 +1129,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-12-21T09:59:54Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "browserify",
             "repo": "events",
-            "stars": 1409,
+            "stars": 1410,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T14:41:21.243Z",
+    "last_updated": "2026-10-20T12:43:47.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
