@@ -27,7 +27,7 @@
 
 ## Main
 
-* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,525 | 🐛 51 | 🌐 JavaScript | 📅 2026-10-23 - The entire standard library.
+* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,526 | 🐛 48 | 🌐 JavaScript | 📅 2026-10-24 - The entire standard library.
 
 ## Uncategorised
 
@@ -81,7 +81,7 @@
 
 * [resize-observer-polyfill](https://github.com/que-etc/resize-observer-polyfill) ⭐ 1,746 | 🐛 59 | 🌐 JavaScript | 📅 2023-01-27 - [`ResizeObserver`](https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver)
 * [cross-fetch](https://github.com/lquixada/cross-fetch) ⭐ 1,694 | 🐛 27 | 🌐 JavaScript | 📅 2025-04-15 - [`fetch`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-* [css-vars-ponyfill](https://github.com/jhildenbiddle/css-vars-ponyfill/) ⭐ 1,454 | 🐛 5 | 🌐 JavaScript | 📅 2024-03-05 - [CSS variables/custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+* [css-vars-ponyfill](https://github.com/jhildenbiddle/css-vars-ponyfill/) ⭐ 1,453 | 🐛 5 | 🌐 JavaScript | 📅 2024-03-05 - [CSS variables/custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 * [raf](https://github.com/chrisdickinson/raf) ⭐ 736 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-31 - [`requestAnimationFrame`](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
 * [abortcontroller-polyfill](https://github.com/mo/abortcontroller-polyfill) ⭐ 340 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-10 - [`AbortController`](https://developer.mozilla.org/en-US/docs/Web/API/AbortController)
 * [webbluetooth](https://github.com/thegecko/webbluetooth) ⭐ 201 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-14 - [`Bluetooth`](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
@@ -95,7 +95,7 @@
 
 ## Node.js Features
 
-* [events](https://github.com/Gozala/events) ⭐ 1,410 | 🐛 14 | 🌐 JavaScript | 📅 2024-12-21 - [`EventEmitter`](https://nodejs.org/api/events.html#events_class_eventemitter)
+* [events](https://github.com/Gozala/events) ⭐ 1,408 | 🐛 14 | 🌐 JavaScript | 📅 2024-12-21 - [`EventEmitter`](https://nodejs.org/api/events.html#events_class_eventemitter)
 * [tickedoff](https://github.com/jamiebuilds/tickedoff) ⭐ 217 | 🐛 2 | 🌐 JavaScript | 📅 2023-06-13 - [`setImmediate`](https://nodejs.org/api/timers.html#timers_setimmediate_callback_args)
 * [next-tick](https://github.com/medikoo/next-tick) ⭐ 74 | 🐛 2 | 🌐 JavaScript | 📅 2021-06-30 - [`process.nextTick`](https://nodejs.org/api/process.html#process_process_nexttick_callback_args)
 * [buffer-from](https://github.com/LinusU/buffer-from) ⭐ 25 | 🐛 1 | 🌐 JavaScript | 📅 2021-07-29 - [`Buffer.from`](https://nodejs.org/api/buffer.html#buffer_class_method_buffer_from_array)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
