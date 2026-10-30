@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "stefanpenner",
             "repo": "es6-promise",
-            "stars": 7248,
+            "stars": 7247,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -395,7 +395,7 @@
             "open_issues": 17,
             "owner": "bestiejs",
             "repo": "json3",
-            "stars": 1017,
+            "stars": 1016,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T14:21:05.093Z",
+    "last_updated": "2026-10-30T14:09:46.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
