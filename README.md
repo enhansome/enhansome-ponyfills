@@ -27,7 +27,7 @@
 
 ## Main
 
-* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,525 | 🐛 46 | 🌐 JavaScript | 📅 2026-10-30 - The entire standard library.
+* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,524 | 🐛 46 | 🌐 JavaScript | 📅 2026-10-31 - The entire standard library.
 
 ## Uncategorised
 
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
