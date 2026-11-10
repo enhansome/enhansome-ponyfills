@@ -861,7 +861,7 @@
             "open_issues": 5,
             "owner": "jhildenbiddle",
             "repo": "css-vars-ponyfill",
-            "stars": 1453,
+            "stars": 1454,
             "topics": [
               "client",
               "client-side",
@@ -924,7 +924,7 @@
             "open_issues": 16,
             "owner": "mo",
             "repo": "abortcontroller-polyfill",
-            "stars": 340,
+            "stars": 341,
             "topics": [
               "abortcontroller",
               "abortsignal",
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T17:30:01.444Z",
+    "last_updated": "2026-11-10T15:36:22.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
