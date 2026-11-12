@@ -169,7 +169,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-31T18:20:35Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "MikeMcl",
             "repo": "bignumber.js",
             "stars": 7015,
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T15:13:17.354Z",
+    "last_updated": "2026-11-12T15:58:40.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
