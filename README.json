@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T15:58:40.962Z",
+    "last_updated": "2026-11-13T15:24:13.455Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
@@ -1250,7 +1250,7 @@
       "open_issues": 2,
       "owner": "Richienb",
       "repo": "awesome-ponyfills",
-      "stars": 66,
+      "stars": 65,
       "topics": [
         "awesome",
         "awesome-list",
