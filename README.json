@@ -40,7 +40,7 @@
             "open_issues": 2,
             "owner": "medikoo",
             "repo": "es6-symbol",
-            "stars": 178,
+            "stars": 179,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -416,7 +416,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "object-assign",
-            "stars": 917,
+            "stars": 918,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -579,7 +579,7 @@
             "open_issues": 2,
             "owner": "juliangruber",
             "repo": "isarray",
-            "stars": 130,
+            "stars": 131,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -678,7 +678,7 @@
             "open_issues": 8,
             "owner": "b12-archive",
             "repo": "array-from",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -1132,7 +1132,7 @@
             "open_issues": 14,
             "owner": "browserify",
             "repo": "events",
-            "stars": 1408,
+            "stars": 1409,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T14:09:33.931Z",
+    "last_updated": "2026-11-15T14:45:36.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",

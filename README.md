@@ -27,12 +27,12 @@
 
 ## Main
 
-* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,515 | 🐛 45 | 🌐 JavaScript | 📅 2026-11-14 - The entire standard library.
+* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,516 | 🐛 45 | 🌐 JavaScript | 📅 2026-11-15 - The entire standard library.
 
 ## Uncategorised
 
 * [es6-promise](https://github.com/stefanpenner/es6-promise) ⭐ 7,246 | 🐛 26 | 🌐 JavaScript | 📅 2022-11-14 - [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-* [es6-symbol](https://github.com/medikoo/es6-symbol) ⭐ 178 | 🐛 2 | 🌐 JavaScript | 📅 2024-03-01 - [`Symbol`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol)
+* [es6-symbol](https://github.com/medikoo/es6-symbol) ⭐ 179 | 🐛 2 | 🌐 JavaScript | 📅 2024-03-01 - [`Symbol`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol)
 * [globalthis](https://github.com/ljharb/System.global) ⭐ 157 | 🐛 2 | 🌐 JavaScript | 📅 2025-12-30 - [`globalThis`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/globalThis)
 * [es6-map](https://github.com/medikoo/es6-map) ⭐ 73 | 🐛 1 | 🌐 JavaScript | 📅 2021-06-30 - [`Map`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
 * [es6-set](https://github.com/medikoo/es6-set) ⭐ 46 | 🐛 1 | 🌐 JavaScript | 📅 2022-08-31 - [`Set`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
@@ -57,7 +57,7 @@
 ## Objects
 
 * [json3](https://github.com/bestiejs/json3) ⚠️ Archived - [`JSON`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
-* [object-assign](https://github.com/sindresorhus/object-assign) ⭐ 917 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - [`Object.assign`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
+* [object-assign](https://github.com/sindresorhus/object-assign) ⭐ 918 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - [`Object.assign`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
 * [object.values](https://github.com/es-shims/Object.values) ⭐ 72 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-30 - [`Object.values`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values)
 * [object.entries](https://github.com/es-shims/Object.entries) ⭐ 59 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-30 - [`Object.entries`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries)
 * [object-keys](https://github.com/ljharb/object-keys) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-17 - [`Object.keys`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
@@ -66,7 +66,7 @@
 
 ## Arrays
 
-* [isarray](https://github.com/juliangruber/isarray) ⭐ 130 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-13 - [`Array.isArray`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
+* [isarray](https://github.com/juliangruber/isarray) ⭐ 131 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-13 - [`Array.isArray`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
 * [array-includes](https://github.com/es-shims/array-includes) ⭐ 43 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-11 - [`Array.prototype.includes`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
 * [array.prototype.find](https://github.com/paulmillr/Array.prototype.find) ⭐ 38 | 🐛 1 | 🌐 JavaScript | 📅 2024-03-19 - [`Array.prototype.find`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
 * [array.prototype.flatmap](https://github.com/es-shims/Array.prototype.flatMap) ⭐ 33 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-30 - [`Array.prototype.flatMap`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap)
@@ -95,7 +95,7 @@
 
 ## Node.js Features
 
-* [events](https://github.com/Gozala/events) ⭐ 1,408 | 🐛 14 | 🌐 JavaScript | 📅 2024-12-21 - [`EventEmitter`](https://nodejs.org/api/events.html#events_class_eventemitter)
+* [events](https://github.com/Gozala/events) ⭐ 1,409 | 🐛 14 | 🌐 JavaScript | 📅 2024-12-21 - [`EventEmitter`](https://nodejs.org/api/events.html#events_class_eventemitter)
 * [tickedoff](https://github.com/jamiebuilds/tickedoff) ⭐ 217 | 🐛 2 | 🌐 JavaScript | 📅 2023-06-13 - [`setImmediate`](https://nodejs.org/api/timers.html#timers_setimmediate_callback_args)
 * [next-tick](https://github.com/medikoo/next-tick) ⭐ 74 | 🐛 2 | 🌐 JavaScript | 📅 2021-06-30 - [`process.nextTick`](https://nodejs.org/api/process.html#process_process_nexttick_callback_args)
 * [buffer-from](https://github.com/LinusU/buffer-from) ⭐ 25 | 🐛 1 | 🌐 JavaScript | 📅 2021-07-29 - [`Buffer.from`](https://nodejs.org/api/buffer.html#buffer_class_method_buffer_from_array)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
