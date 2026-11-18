@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "stefanpenner",
             "repo": "es6-promise",
-            "stars": 7246,
+            "stars": 7245,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -172,7 +172,7 @@
             "open_issues": 14,
             "owner": "MikeMcl",
             "repo": "bignumber.js",
-            "stars": 7015,
+            "stars": 7013,
             "topics": [
               "arbitrary-precision",
               "bigdecimal",
@@ -1129,7 +1129,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-12-21T09:59:54Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "browserify",
             "repo": "events",
             "stars": 1409,
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T16:53:37.310Z",
+    "last_updated": "2026-11-18T16:27:50.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",

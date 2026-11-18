@@ -27,11 +27,11 @@
 
 ## Main
 
-* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,515 | 🐛 45 | 🌐 JavaScript | 📅 2026-11-17 - The entire standard library.
+* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,514 | 🐛 44 | 🌐 JavaScript | 📅 2026-11-18 - The entire standard library.
 
 ## Uncategorised
 
-* [es6-promise](https://github.com/stefanpenner/es6-promise) ⭐ 7,246 | 🐛 26 | 🌐 JavaScript | 📅 2022-11-14 - [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+* [es6-promise](https://github.com/stefanpenner/es6-promise) ⭐ 7,245 | 🐛 26 | 🌐 JavaScript | 📅 2022-11-14 - [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 * [es6-symbol](https://github.com/medikoo/es6-symbol) ⭐ 179 | 🐛 2 | 🌐 JavaScript | 📅 2024-03-01 - [`Symbol`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol)
 * [globalthis](https://github.com/ljharb/System.global) ⭐ 157 | 🐛 2 | 🌐 JavaScript | 📅 2025-12-30 - [`globalThis`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/globalThis)
 * [es6-map](https://github.com/medikoo/es6-map) ⭐ 73 | 🐛 1 | 🌐 JavaScript | 📅 2021-06-30 - [`Map`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
@@ -41,7 +41,7 @@
 
 ## Numbers
 
-* [bignumber.js](https://github.com/MikeMcl/bignumber.js) ⭐ 7,015 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-31 - [`BigInt`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+* [bignumber.js](https://github.com/MikeMcl/bignumber.js) ⭐ 7,013 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-31 - [`BigInt`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
 * [number-is-nan](https://github.com/sindresorhus/number-is-nan) ⚠️ Archived - [`Number.isNaN`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isNaN)
 * [is-finite](https://github.com/sindresorhus/is-finite) ⚠️ Archived - [`Number.isFinite`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isFinite)
 * [is-integer](https://github.com/parshap/js-is-integer) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2017-05-05 - [`Number.isInteger`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isInteger)
@@ -95,7 +95,7 @@
 
 ## Node.js Features
 
-* [events](https://github.com/Gozala/events) ⭐ 1,409 | 🐛 14 | 🌐 JavaScript | 📅 2024-12-21 - [`EventEmitter`](https://nodejs.org/api/events.html#events_class_eventemitter)
+* [events](https://github.com/Gozala/events) ⭐ 1,409 | 🐛 15 | 🌐 JavaScript | 📅 2024-12-21 - [`EventEmitter`](https://nodejs.org/api/events.html#events_class_eventemitter)
 * [tickedoff](https://github.com/jamiebuilds/tickedoff) ⭐ 217 | 🐛 2 | 🌐 JavaScript | 📅 2023-06-13 - [`setImmediate`](https://nodejs.org/api/timers.html#timers_setimmediate_callback_args)
 * [next-tick](https://github.com/medikoo/next-tick) ⭐ 74 | 🐛 2 | 🌐 JavaScript | 📅 2021-06-30 - [`process.nextTick`](https://nodejs.org/api/process.html#process_process_nexttick_callback_args)
 * [buffer-from](https://github.com/LinusU/buffer-from) ⭐ 25 | 🐛 1 | 🌐 JavaScript | 📅 2021-07-29 - [`Buffer.from`](https://nodejs.org/api/buffer.html#buffer_class_method_buffer_from_array)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
