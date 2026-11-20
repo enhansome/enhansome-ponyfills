@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "stefanpenner",
             "repo": "es6-promise",
-            "stars": 7245,
+            "stars": 7244,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -172,7 +172,7 @@
             "open_issues": 14,
             "owner": "MikeMcl",
             "repo": "bignumber.js",
-            "stars": 7013,
+            "stars": 7012,
             "topics": [
               "arbitrary-precision",
               "bigdecimal",
@@ -924,7 +924,7 @@
             "open_issues": 16,
             "owner": "mo",
             "repo": "abortcontroller-polyfill",
-            "stars": 341,
+            "stars": 340,
             "topics": [
               "abortcontroller",
               "abortsignal",
@@ -1132,7 +1132,7 @@
             "open_issues": 15,
             "owner": "browserify",
             "repo": "events",
-            "stars": 1409,
+            "stars": 1408,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T16:34:29.549Z",
+    "last_updated": "2026-11-20T16:09:43.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
