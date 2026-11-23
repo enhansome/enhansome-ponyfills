@@ -27,7 +27,7 @@
 
 ## Main
 
-* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,517 | 🐛 42 | 🌐 JavaScript | 📅 2026-11-22 - The entire standard library.
+* ⭐️ [core-js-pure](https://github.com/zloirock/core-js) ⭐ 25,514 | 🐛 42 | 🌐 JavaScript | 📅 2026-11-23 - The entire standard library.
 
 ## Uncategorised
 
@@ -80,7 +80,7 @@
 ## Browser Features
 
 * [resize-observer-polyfill](https://github.com/que-etc/resize-observer-polyfill) ⭐ 1,745 | 🐛 59 | 🌐 JavaScript | 📅 2023-01-27 - [`ResizeObserver`](https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver)
-* [cross-fetch](https://github.com/lquixada/cross-fetch) ⭐ 1,694 | 🐛 27 | 🌐 JavaScript | 📅 2025-04-15 - [`fetch`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+* [cross-fetch](https://github.com/lquixada/cross-fetch) ⭐ 1,692 | 🐛 27 | 🌐 JavaScript | 📅 2025-04-15 - [`fetch`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 * [css-vars-ponyfill](https://github.com/jhildenbiddle/css-vars-ponyfill/) ⭐ 1,454 | 🐛 5 | 🌐 JavaScript | 📅 2024-03-05 - [CSS variables/custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 * [raf](https://github.com/chrisdickinson/raf) ⭐ 736 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-31 - [`requestAnimationFrame`](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
 * [abortcontroller-polyfill](https://github.com/mo/abortcontroller-polyfill) ⭐ 340 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-10 - [`AbortController`](https://developer.mozilla.org/en-US/docs/Web/API/AbortController)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
