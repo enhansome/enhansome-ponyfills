@@ -861,7 +861,7 @@
             "open_issues": 5,
             "owner": "jhildenbiddle",
             "repo": "css-vars-ponyfill",
-            "stars": 1454,
+            "stars": 1453,
             "topics": [
               "client",
               "client-side",
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T17:43:41.687Z",
+    "last_updated": "2026-11-27T17:28:12.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
