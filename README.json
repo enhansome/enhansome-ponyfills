@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "stefanpenner",
             "repo": "es6-promise",
-            "stars": 7242,
+            "stars": 7243,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -61,7 +61,7 @@
             "open_issues": 2,
             "owner": "es-shims",
             "repo": "globalThis",
-            "stars": 157,
+            "stars": 158,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -172,7 +172,7 @@
             "open_issues": 15,
             "owner": "MikeMcl",
             "repo": "bignumber.js",
-            "stars": 7012,
+            "stars": 7013,
             "topics": [
               "arbitrary-precision",
               "bigdecimal",
@@ -310,7 +310,7 @@
             "open_issues": 1,
             "owner": "es-shims",
             "repo": "String.prototype.trim",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "ecmascript",
               "javascript",
@@ -416,7 +416,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "object-assign",
-            "stars": 918,
+            "stars": 919,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -437,7 +437,7 @@
             "open_issues": 1,
             "owner": "es-shims",
             "repo": "Object.values",
-            "stars": 72,
+            "stars": 73,
             "topics": [
               "ecmascript",
               "javascript",
@@ -495,7 +495,7 @@
             "open_issues": 0,
             "owner": "ljharb",
             "repo": "object-keys",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "ecmascript",
               "es-shims",
@@ -552,7 +552,7 @@
             "open_issues": 1,
             "owner": "es-shims",
             "repo": "object-is",
-            "stars": 25,
+            "stars": 26,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -579,7 +579,7 @@
             "open_issues": 2,
             "owner": "juliangruber",
             "repo": "isarray",
-            "stars": 131,
+            "stars": 132,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -600,7 +600,7 @@
             "open_issues": 1,
             "owner": "es-shims",
             "repo": "array-includes",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "array",
               "contains",
@@ -952,7 +952,7 @@
             "open_issues": 10,
             "owner": "thegecko",
             "repo": "webbluetooth",
-            "stars": 201,
+            "stars": 202,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -1016,10 +1016,10 @@
             "language": "CoffeeScript",
             "license": "MIT",
             "last_commit": "2022-09-01T16:03:36Z",
-            "open_issues": 26,
+            "open_issues": 25,
             "owner": "pwnall",
             "repo": "node-xhr2",
-            "stars": 108,
+            "stars": 109,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -1105,7 +1105,7 @@
             "open_issues": 2,
             "owner": "braveg1rl",
             "repo": "performance-now",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -1132,7 +1132,7 @@
             "open_issues": 15,
             "owner": "browserify",
             "repo": "events",
-            "stars": 1408,
+            "stars": 1409,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -1207,7 +1207,7 @@
             "open_issues": 1,
             "owner": "LinusU",
             "repo": "buffer-from",
-            "stars": 25,
+            "stars": 26,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:50.435Z"
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T17:28:12.153Z",
+    "last_updated": "2026-11-28T16:11:13.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
